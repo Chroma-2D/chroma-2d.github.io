@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['s_0',['S',['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa5dbc98dcc983a70728bd082d1a47546e',1,'Chroma.Input.S()'],['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a5dbc98dcc983a70728bd082d1a47546e',1,'Chroma.Input.S()']]],
+  ['s16_1',['S16',['../namespaceChroma_1_1Audio.html#a2d924cb3f6a186b63b5cf92871ff41bfa6e0b0886efb94aec797f6b830329b72c',1,'Chroma::Audio']]],
+  ['s32_2',['S32',['../namespaceChroma_1_1Audio.html#a2d924cb3f6a186b63b5cf92871ff41bfaa1e28eee0339658d39a8b4d325b56e9c',1,'Chroma::Audio']]],
+  ['s8_3',['S8',['../namespaceChroma_1_1Audio.html#a2d924cb3f6a186b63b5cf92871ff41bfaafb0fced528eaac5fe170b763cda5975',1,'Chroma::Audio']]],
+  ['scrolllock_4',['ScrollLock',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a7d7902d5e2998e4fb2b8694a2de4ff65',1,'Chroma.Input.ScrollLock()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa7d7902d5e2998e4fb2b8694a2de4ff65',1,'Chroma.Input.ScrollLock()']]],
+  ['select_5',['Select',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5ae0626222614bdee31951d84c64e5e9ff',1,'Chroma.Input.Select()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fae0626222614bdee31951d84c64e5e9ff',1,'Chroma.Input.Select()']]],
+  ['semicolon_6',['Semicolon',['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa9806fa37a3ecd39bf637c203aa011ed0',1,'Chroma.Input.Semicolon()'],['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a9806fa37a3ecd39bf637c203aa011ed0',1,'Chroma.Input.Semicolon()']]],
+  ['separator_7',['Separator',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a04b2e4188d4ef8051e4699da8af01335',1,'Chroma.Input.Separator()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa04b2e4188d4ef8051e4699da8af01335',1,'Chroma.Input.Separator()']]],
+  ['set_8',['Set',['../namespaceChroma_1_1Graphics.html#adbd7dad333d230f7c268e8344dfd5e72a5d5b78699e57104f2fa03bbdf7b9197b',1,'Chroma::Graphics']]],
+  ['setalpha_9',['SetAlpha',['../namespaceChroma_1_1Graphics.html#adbd7dad333d230f7c268e8344dfd5e72aa021e9579d4a7fef6a0f70f7db297464',1,'Chroma::Graphics']]],
+  ['shift_10',['Shift',['../namespaceChroma_1_1Input.html#ac7fa46fb04ebebbf7d786c299d917269a825a3d98017bab11815ad2817201324c',1,'Chroma::Input']]],
+  ['slash_11',['Slash',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a358cfe58715d680d9ab09f82e4010cbc',1,'Chroma.Input.Slash()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa358cfe58715d680d9ab09f82e4010cbc',1,'Chroma.Input.Slash()']]],
+  ['sleep_12',['Sleep',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a243924bfd56a682be235638b53961e09',1,'Chroma.Input.Sleep()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa243924bfd56a682be235638b53961e09',1,'Chroma.Input.Sleep()']]],
+  ['sourcealpha_13',['SourceAlpha',['../namespaceChroma_1_1Graphics.html#a5fd868647e83485cd0440cbf7d617423a5660d86f4a66c824e699b26a51201a70',1,'Chroma::Graphics']]],
+  ['sourcecolor_14',['SourceColor',['../namespaceChroma_1_1Graphics.html#a5fd868647e83485cd0440cbf7d617423a1901920023e2275becaae076a28b590a',1,'Chroma::Graphics']]],
+  ['space_15',['Space',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5ad511f8439ecde36647437fbba67a4394',1,'Chroma.Input.Space()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fad511f8439ecde36647437fbba67a4394',1,'Chroma.Input.Space()']]],
+  ['special_16',['Special',['../namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffab4c2b550635fe54fd29f2b64dfaca55d',1,'Chroma::Input::GameControllers']]],
+  ['st_17',['ST',['../namespaceChroma_1_1Graphics.html#aef15e98d9fbfc33c1c34cc694cab98a2aec8e57d71f07e31203035548b79d03c8',1,'Chroma::Graphics']]],
+  ['stereo_18',['Stereo',['../namespaceChroma_1_1Audio.html#aaac2f35a104a2a313e95d7c2998e5ee0abbc45d9b35436f5f0ed9e33499efcea9',1,'Chroma::Audio']]],
+  ['stop_19',['Stop',['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa11a755d598c0c417f9a36758c3da7481',1,'Chroma.Input.Stop()'],['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a11a755d598c0c417f9a36758c3da7481',1,'Chroma.Input.Stop()']]],
+  ['stopped_20',['Stopped',['../namespaceChroma_1_1Audio.html#ae64e7337a9faa116048c4102ce7cbdf8ac23e2b09ebe6bf4cb5e2a9abe85c0be2',1,'Chroma.Audio.Stopped()'],['../namespaceChroma_1_1Audio.html#a168fd98bd585285fef717213779269c2ac23e2b09ebe6bf4cb5e2a9abe85c0be2',1,'Chroma.Audio.Stopped()']]],
+  ['stroke_21',['Stroke',['../namespaceChroma_1_1Graphics.html#ace8532d8f65fe7f8d8b151a5ccd23c45a8e763d9065582268c9ffa345a3f81f5f',1,'Chroma::Graphics']]],
+  ['subtract_22',['Subtract',['../namespaceChroma_1_1Graphics.html#a323e2d3a337ed5316706da94fb535713a1d9baf077ee87921f57a8fe42d510b65',1,'Chroma.Graphics.Subtract()'],['../namespaceChroma_1_1Graphics.html#adbd7dad333d230f7c268e8344dfd5e72a1d9baf077ee87921f57a8fe42d510b65',1,'Chroma.Graphics.Subtract()']]],
+  ['super_23',['Super',['../namespaceChroma_1_1Input.html#ac7fa46fb04ebebbf7d786c299d917269a0ce3266d4eb71ad50f7a90aee6d21dcd',1,'Chroma::Input']]],
+  ['sysrq_24',['SysRq',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5abd8a1a8598d5242c89f9e3536f3a5e7c',1,'Chroma.Input.SysRq()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fabd8a1a8598d5242c89f9e3536f3a5e7c',1,'Chroma.Input.SysRq()']]]
+];

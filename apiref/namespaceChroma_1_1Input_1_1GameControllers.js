@@ -1,0 +1,55 @@
+var namespaceChroma_1_1Input_1_1GameControllers =
+[
+    [ "Drivers", "namespaceChroma_1_1Input_1_1GameControllers_1_1Drivers.html", "namespaceChroma_1_1Input_1_1GameControllers_1_1Drivers" ],
+    [ "ControllerAxisEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerAxisEventArgs.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerAxisEventArgs" ],
+    [ "ControllerButtonEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerButtonEventArgs.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerButtonEventArgs" ],
+    [ "ControllerDriver", "classChroma_1_1Input_1_1GameControllers_1_1ControllerDriver.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerDriver" ],
+    [ "ControllerEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerEventArgs.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerEventArgs" ],
+    [ "ControllerInfo", "classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo" ],
+    [ "ControllerSensorEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerSensorEventArgs.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerSensorEventArgs" ],
+    [ "ControllerTouchpadEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerTouchpadEventArgs.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerTouchpadEventArgs" ],
+    [ "ControllerTouchPoint", "structChroma_1_1Input_1_1GameControllers_1_1ControllerTouchPoint.html", "structChroma_1_1Input_1_1GameControllers_1_1ControllerTouchPoint" ],
+    [ "ControllerAxis", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffe", [
+      [ "LeftStickX", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffea9401da4ce408415b34ce204ccb2c27d0", null ],
+      [ "LeftStickY", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffea729f2100a072d3bc80d4eaea3218e61f", null ],
+      [ "RightStickX", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffea815982789d1065d38cea0bf6a12e3d75", null ],
+      [ "RightStickY", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffead3a7ef3a60ff2067a300de6108b26671", null ],
+      [ "LeftTrigger", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffeac412c6d19da2afaf2dc8891f5bcb8901", null ],
+      [ "RightTrigger", "namespaceChroma_1_1Input_1_1GameControllers.html#acfb87f86daa9843da46cfdd49d37bffea837ed99a897594cef0d37403a18f0df0", null ]
+    ] ],
+    [ "ControllerButton", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ff", [
+      [ "X", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa02129bb861061d1a052c592e2dc6b383", null ],
+      [ "Y", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa57cec4137b614c87cb4e24a3d003a3e0", null ],
+      [ "A", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa7fc56270e7a70fa81a5935b72eacbe29", null ],
+      [ "B", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa9d5ed678fe57bcca610140957afab571", null ],
+      [ "View", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa4351cfebe4b61d8aa5efa1d020710005", null ],
+      [ "Menu", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffab61541208db7fa7dba42c85224405911", null ],
+      [ "Logo", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa8c2857a9ad1d8f31659e35e904e20fa6", null ],
+      [ "LeftStick", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa78dfae506443f078a68242fa3989e7d2", null ],
+      [ "RightStick", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa8e2f56dca504cbbdf54b6ba95989aed7", null ],
+      [ "DpadLeft", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa126eb11514ec5936a690e24fce06a075", null ],
+      [ "DpadRight", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffad3c7cfd48048567e4d093aaad0bbcb7a", null ],
+      [ "DpadUp", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffad3ca4590094b47dd5e7ddfd4679a1139", null ],
+      [ "DpadDown", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffaf926cb67913be40219a97ec3889f90d9", null ],
+      [ "RightBumper", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa509b4eb4dd040194b2aa506683ccfbad", null ],
+      [ "LeftBumper", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa91aac15641d2e4fce8e8aef22a4ce4c7", null ],
+      [ "RightTopPaddle", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa93cea4e6ec42f3cb17bc17eaad6f590f", null ],
+      [ "RightBottomPaddle", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffabf850f4711f5d697cd7af300b0b7b7e5", null ],
+      [ "LeftTopPaddle", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa4a9163e14717a096787495101eaccf72", null ],
+      [ "LeftBottomPaddle", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa839150bd571d7f6c982330a1b0c1e1fd", null ],
+      [ "Touchpad", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa8229bf08d472e129beff22e3984afdbd", null ],
+      [ "Special", "namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffab4c2b550635fe54fd29f2b64dfaca55d", null ]
+    ] ],
+    [ "ControllerType", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0", [
+      [ "Xbox360", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a9676fb543e32a92e7f7074c014dff24d", null ],
+      [ "XboxOne", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a50aa9948f17b86aa044f4c5efe274445", null ],
+      [ "PlayStation3", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a18ba8af3fef849cca4d7d8d952289e4a", null ],
+      [ "PlayStation4", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a95830dd4b3c29e91f6ba2bb62d3b4f37", null ],
+      [ "PlayStation5", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a8f9a9bff56e92b3e9791ea68a304edf0", null ],
+      [ "NintendoSwitch", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a013ed2500604451a094b5aaf9ad2827c", null ],
+      [ "GoogleStadia", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a921505a58ebb360d75dc9fba92e1b10a", null ],
+      [ "AmazonLuna", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a0c78c04fc8695212fb57654d29ab0d58", null ],
+      [ "Virtual", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a615e6f9baca5553d44683a098d342b70", null ],
+      [ "Unknown", "namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a88183b946cc5f0e8c96b2e66e1c74a7e", null ]
+    ] ]
+];
