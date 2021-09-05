@@ -22,9 +22,10 @@ var searchData=
   ['orange_19',['Orange',['../structChroma_1_1Graphics_1_1Color.html#a1a8b52cbed0c5ce9b744f45e9249bf7b',1,'Chroma::Graphics::Color']]],
   ['orangered_20',['OrangeRed',['../structChroma_1_1Graphics_1_1Color.html#a64b0ad4e555383d3d7f26539bd829f40',1,'Chroma::Graphics::Color']]],
   ['orchid_21',['Orchid',['../structChroma_1_1Graphics_1_1Color.html#a4bc877bec4d0ad04ebc68a83377b2058',1,'Chroma::Graphics::Color']]],
-  ['origin_22',['Origin',['../classChroma_1_1Graphics_1_1TextRendering_1_1GlyphTransformData.html#ac0d8d785d160432e8626ff76028ca00b',1,'Chroma.Graphics.TextRendering.GlyphTransformData.Origin()'],['../classChroma_1_1Graphics_1_1Particles_1_1Particle.html#a9e4686890bef8602802a13a9a653c772',1,'Chroma.Graphics.Particles.Particle.Origin()']]],
-  ['out_23',['Out',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a7c147cda9e49590f6abe83d118b7353b',1,'Chroma.Input.Out()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa7c147cda9e49590f6abe83d118b7353b',1,'Chroma.Input.Out()']]],
-  ['outbuffer_24',['OutBuffer',['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a90862c6474bd5955689a395029a345ce',1,'Chroma::Audio::Sources::AudioSource']]],
-  ['output_25',['Output',['../classChroma_1_1Audio_1_1AudioManager.html#ade15840f9925ca6e694d6ee259f3a229',1,'Chroma::Audio::AudioManager']]],
-  ['owner_26',['Owner',['../classChroma_1_1Graphics_1_1Particles_1_1Particle.html#afc9a382715063e51d517e7e15e542128',1,'Chroma::Graphics::Particles::Particle']]]
+  ['origin_22',['Origin',['../classChroma_1_1Graphics_1_1Particles_1_1Particle.html#a9e4686890bef8602802a13a9a653c772',1,'Chroma.Graphics.Particles.Particle.Origin()'],['../classChroma_1_1Graphics_1_1TextRendering_1_1GlyphTransformData.html#ac0d8d785d160432e8626ff76028ca00b',1,'Chroma.Graphics.TextRendering.GlyphTransformData.Origin()']]],
+  ['orthographic_23',['Orthographic',['../classChroma_1_1Graphics_1_1RenderTransform.html#a1b6ce6e4fd1f31a6749088aa0c2c0798',1,'Chroma::Graphics::RenderTransform']]],
+  ['out_24',['Out',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a7c147cda9e49590f6abe83d118b7353b',1,'Chroma.Input.Out()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa7c147cda9e49590f6abe83d118b7353b',1,'Chroma.Input.Out()']]],
+  ['outbuffer_25',['OutBuffer',['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a90862c6474bd5955689a395029a345ce',1,'Chroma::Audio::Sources::AudioSource']]],
+  ['output_26',['Output',['../classChroma_1_1Audio_1_1AudioManager.html#ade15840f9925ca6e694d6ee259f3a229',1,'Chroma::Audio::AudioManager']]],
+  ['owner_27',['Owner',['../classChroma_1_1Graphics_1_1Particles_1_1Particle.html#afc9a382715063e51d517e7e15e542128',1,'Chroma::Graphics::Particles::Particle']]]
 ];

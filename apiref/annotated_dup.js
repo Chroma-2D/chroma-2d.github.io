@@ -51,9 +51,10 @@ var annotated_dup =
             [ "StreamSink", "classChroma_1_1Diagnostics_1_1Logging_1_1Sinks_1_1StreamSink.html", "classChroma_1_1Diagnostics_1_1Logging_1_1Sinks_1_1StreamSink" ]
           ] ],
           [ "DuplicateSinkException", "classChroma_1_1Diagnostics_1_1Logging_1_1DuplicateSinkException.html", "classChroma_1_1Diagnostics_1_1Logging_1_1DuplicateSinkException" ],
-          [ "Log", "classChroma_1_1Diagnostics_1_1Logging_1_1Log.html", "classChroma_1_1Diagnostics_1_1Logging_1_1Log" ]
+          [ "Log", "classChroma_1_1Diagnostics_1_1Logging_1_1Log.html", "classChroma_1_1Diagnostics_1_1Logging_1_1Log" ],
+          [ "LogManager", "classChroma_1_1Diagnostics_1_1Logging_1_1LogManager.html", "classChroma_1_1Diagnostics_1_1Logging_1_1LogManager" ]
         ] ],
-        [ "PerformanceCounter", "classChroma_1_1Diagnostics_1_1PerformanceCounter.html", null ]
+        [ "PerformanceCounter", "classChroma_1_1Diagnostics_1_1PerformanceCounter.html", "classChroma_1_1Diagnostics_1_1PerformanceCounter" ]
       ] ],
       [ "Graphics", "namespaceChroma_1_1Graphics.html", [
         [ "Accelerated", "namespaceChroma_1_1Graphics_1_1Accelerated.html", [
@@ -68,6 +69,7 @@ var annotated_dup =
           [ "StateInitializers", "namespaceChroma_1_1Graphics_1_1Particles_1_1StateInitializers.html", [
             [ "RandomizedStateInitializer", "classChroma_1_1Graphics_1_1Particles_1_1StateInitializers_1_1RandomizedStateInitializer.html", "classChroma_1_1Graphics_1_1Particles_1_1StateInitializers_1_1RandomizedStateInitializer" ]
           ] ],
+          [ "BuiltInParticleStateIntegrators", "classChroma_1_1Graphics_1_1Particles_1_1BuiltInParticleStateIntegrators.html", "classChroma_1_1Graphics_1_1Particles_1_1BuiltInParticleStateIntegrators" ],
           [ "Particle", "classChroma_1_1Graphics_1_1Particles_1_1Particle.html", "classChroma_1_1Graphics_1_1Particles_1_1Particle" ],
           [ "ParticleEmitter", "classChroma_1_1Graphics_1_1Particles_1_1ParticleEmitter.html", "classChroma_1_1Graphics_1_1Particles_1_1ParticleEmitter" ],
           [ "ParticleStateInitializer", "classChroma_1_1Graphics_1_1Particles_1_1ParticleStateInitializer.html", "classChroma_1_1Graphics_1_1Particles_1_1ParticleStateInitializer" ]
@@ -90,7 +92,9 @@ var annotated_dup =
         [ "GraphicsException", "classChroma_1_1Graphics_1_1GraphicsException.html", null ],
         [ "GraphicsManager", "classChroma_1_1Graphics_1_1GraphicsManager.html", "classChroma_1_1Graphics_1_1GraphicsManager" ],
         [ "RenderContext", "classChroma_1_1Graphics_1_1RenderContext.html", "classChroma_1_1Graphics_1_1RenderContext" ],
+        [ "RenderSettings", "classChroma_1_1Graphics_1_1RenderSettings.html", "classChroma_1_1Graphics_1_1RenderSettings" ],
         [ "RenderTarget", "classChroma_1_1Graphics_1_1RenderTarget.html", "classChroma_1_1Graphics_1_1RenderTarget" ],
+        [ "RenderTransform", "classChroma_1_1Graphics_1_1RenderTransform.html", "classChroma_1_1Graphics_1_1RenderTransform" ],
         [ "Texture", "classChroma_1_1Graphics_1_1Texture.html", "classChroma_1_1Graphics_1_1Texture" ]
       ] ],
       [ "Hardware", "namespaceChroma_1_1Hardware.html", [
@@ -120,8 +124,11 @@ var annotated_dup =
           [ "ControllerTouchpadEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerTouchpadEventArgs.html", "classChroma_1_1Input_1_1GameControllers_1_1ControllerTouchpadEventArgs" ],
           [ "ControllerTouchPoint", "structChroma_1_1Input_1_1GameControllers_1_1ControllerTouchPoint.html", "structChroma_1_1Input_1_1GameControllers_1_1ControllerTouchPoint" ]
         ] ],
+        [ "Controller", "classChroma_1_1Input_1_1Controller.html", "classChroma_1_1Input_1_1Controller" ],
         [ "Cursor", "classChroma_1_1Input_1_1Cursor.html", "classChroma_1_1Input_1_1Cursor" ],
+        [ "Keyboard", "classChroma_1_1Input_1_1Keyboard.html", "classChroma_1_1Input_1_1Keyboard" ],
         [ "KeyEventArgs", "classChroma_1_1Input_1_1KeyEventArgs.html", "classChroma_1_1Input_1_1KeyEventArgs" ],
+        [ "Mouse", "classChroma_1_1Input_1_1Mouse.html", "classChroma_1_1Input_1_1Mouse" ],
         [ "MouseButtonEventArgs", "classChroma_1_1Input_1_1MouseButtonEventArgs.html", "classChroma_1_1Input_1_1MouseButtonEventArgs" ],
         [ "MouseButtonState", "structChroma_1_1Input_1_1MouseButtonState.html", "structChroma_1_1Input_1_1MouseButtonState" ],
         [ "MouseMoveEventArgs", "classChroma_1_1Input_1_1MouseMoveEventArgs.html", "classChroma_1_1Input_1_1MouseMoveEventArgs" ],
@@ -132,7 +139,7 @@ var annotated_dup =
         [ "DisposableResource", "classChroma_1_1MemoryManagement_1_1DisposableResource.html", "classChroma_1_1MemoryManagement_1_1DisposableResource" ]
       ] ],
       [ "Threading", "namespaceChroma_1_1Threading.html", [
-        [ "Dispatcher", "classChroma_1_1Threading_1_1Dispatcher.html", null ]
+        [ "Dispatcher", "classChroma_1_1Threading_1_1Dispatcher.html", "classChroma_1_1Threading_1_1Dispatcher" ]
       ] ],
       [ "Windowing", "namespaceChroma_1_1Windowing.html", [
         [ "DragDrop", "namespaceChroma_1_1Windowing_1_1DragDrop.html", [
@@ -147,6 +154,8 @@ var annotated_dup =
         [ "WindowSizeEventArgs", "classChroma_1_1Windowing_1_1WindowSizeEventArgs.html", "classChroma_1_1Windowing_1_1WindowSizeEventArgs" ],
         [ "WindowStateEventArgs", "classChroma_1_1Windowing_1_1WindowStateEventArgs.html", "classChroma_1_1Windowing_1_1WindowStateEventArgs" ]
       ] ],
+      [ "Clipboard", "classChroma_1_1Clipboard.html", "classChroma_1_1Clipboard" ],
+      [ "Extensions", "classChroma_1_1Extensions.html", "classChroma_1_1Extensions" ],
       [ "FrameworkException", "classChroma_1_1FrameworkException.html", "classChroma_1_1FrameworkException" ],
       [ "Game", "classChroma_1_1Game.html", "classChroma_1_1Game" ],
       [ "GameStartupOptions", "classChroma_1_1GameStartupOptions.html", "classChroma_1_1GameStartupOptions" ]

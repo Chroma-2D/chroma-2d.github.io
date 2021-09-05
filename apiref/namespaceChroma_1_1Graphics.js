@@ -17,7 +17,9 @@ var namespaceChroma_1_1Graphics =
     [ "GraphicsException", "classChroma_1_1Graphics_1_1GraphicsException.html", null ],
     [ "GraphicsManager", "classChroma_1_1Graphics_1_1GraphicsManager.html", "classChroma_1_1Graphics_1_1GraphicsManager" ],
     [ "RenderContext", "classChroma_1_1Graphics_1_1RenderContext.html", "classChroma_1_1Graphics_1_1RenderContext" ],
+    [ "RenderSettings", "classChroma_1_1Graphics_1_1RenderSettings.html", "classChroma_1_1Graphics_1_1RenderSettings" ],
     [ "RenderTarget", "classChroma_1_1Graphics_1_1RenderTarget.html", "classChroma_1_1Graphics_1_1RenderTarget" ],
+    [ "RenderTransform", "classChroma_1_1Graphics_1_1RenderTransform.html", "classChroma_1_1Graphics_1_1RenderTransform" ],
     [ "Texture", "classChroma_1_1Graphics_1_1Texture.html", "classChroma_1_1Graphics_1_1Texture" ],
     [ "BlendingEquation", "namespaceChroma_1_1Graphics.html#a323e2d3a337ed5316706da94fb535713", [
       [ "Add", "namespaceChroma_1_1Graphics.html#a323e2d3a337ed5316706da94fb535713aec211f7c20af43e742bf2570c3cb84f9", null ],

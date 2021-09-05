@@ -5,5 +5,6 @@ var classChroma_1_1Windowing_1_1MessageBox =
     [ "WithMessage", "classChroma_1_1Windowing_1_1MessageBox.html#a71adfd0345573dd2f99ab670df1574de", null ],
     [ "WithButton", "classChroma_1_1Windowing_1_1MessageBox.html#a83f1414bc42e15ea13339c0de56c3625", null ],
     [ "HandleAbnormalClosureWith", "classChroma_1_1Windowing_1_1MessageBox.html#ae34c0a22e449fc7c32a07cb9d381d303", null ],
-    [ "Show", "classChroma_1_1Windowing_1_1MessageBox.html#a86def222897377b704f949d2644174b5", null ]
+    [ "Show", "classChroma_1_1Windowing_1_1MessageBox.html#a86def222897377b704f949d2644174b5", null ],
+    [ "Show", "classChroma_1_1Windowing_1_1MessageBox.html#ab31210ea5a51de59f6138592108b4a83", null ]
 ];

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['effect_0',['Effect',['../classChroma_1_1Graphics_1_1Accelerated_1_1Effect.html#aaa5c00b3c51ac34dab19528e35794466',1,'Chroma::Graphics::Accelerated::Effect']]],
-  ['ellipse_1',['Ellipse',['../classChroma_1_1Graphics_1_1RenderContext.html#af72db65b06da47d0601633be22149842',1,'Chroma::Graphics::RenderContext']]],
+  ['ellipse_1',['Ellipse',['../classChroma_1_1Extensions.html#acbf3cd9526ab435b5723c25ada2c3e70',1,'Chroma.Extensions.Ellipse()'],['../classChroma_1_1Graphics_1_1RenderContext.html#af72db65b06da47d0601633be22149842',1,'Chroma.Graphics.RenderContext.Ellipse()']]],
   ['emit_2',['Emit',['../classChroma_1_1Graphics_1_1Particles_1_1ParticleEmitter.html#a9f89178553a28e32c14d6cc0c7a95a56',1,'Chroma::Graphics::Particles::ParticleEmitter']]],
   ['ensurecustomshaderactive_3',['EnsureCustomShaderActive',['../classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a989c8673c876d2f6d8f8d510f74c733c',1,'Chroma::Graphics::Accelerated::Shader']]],
   ['ensurehandlevalid_4',['EnsureHandleValid',['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a9b77a68750b71e91274816f02674b78b',1,'Chroma::Audio::Sources::AudioSource']]],

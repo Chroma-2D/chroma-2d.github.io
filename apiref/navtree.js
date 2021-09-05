@@ -179,6 +179,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
   node.isLast = lastNode;
 
   node.li = document.createElement("li");
+
   po.getChildrenUL().appendChild(node.li);
   node.parentNode = po;
 
@@ -206,6 +207,22 @@ function newNode(o, po, text, link, childrenData, lastNode)
       url = node.relpath+link;
     }
     a.className = stripPath(link.replace('#',':'));
+
+    if (/namespace[A-Z]+/.test(a.className)) {
+        if (!a.className.includes(':')) {
+            node.li.className = "folder-item";
+        }
+        else {
+            node.li.className = "class-item";
+        }
+    } else if(/class[A-Z]+/.test(a.className)) {
+        node.li.className = "class-item";
+    } else if(/struct[A-Z]+/.test(a.className)) {
+        node.li.className = "class-item";
+    } else if(/interface[A-Z]+/.test(a.className)) {
+        node.li.className = "class-item";
+    }
+
     if (link.indexOf('#')!=-1) {
       var aname = '#'+link.split('#')[1];
       var srcPage = stripPath(pathName());

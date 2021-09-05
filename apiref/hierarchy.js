@@ -5,7 +5,10 @@ var hierarchy =
     [ "Chroma.Audio.AudioInput", "classChroma_1_1Audio_1_1AudioInput.html", null ],
     [ "Chroma.Audio.AudioManager", "classChroma_1_1Audio_1_1AudioManager.html", null ],
     [ "Chroma.Audio.AudioOutput", "classChroma_1_1Audio_1_1AudioOutput.html", null ],
+    [ "Chroma.Graphics.Particles.BuiltInParticleStateIntegrators", "classChroma_1_1Graphics_1_1Particles_1_1BuiltInParticleStateIntegrators.html", null ],
     [ "Chroma.Graphics.Camera", "classChroma_1_1Graphics_1_1Camera.html", null ],
+    [ "Chroma.Clipboard", "classChroma_1_1Clipboard.html", null ],
+    [ "Chroma.Input.Controller", "classChroma_1_1Input_1_1Controller.html", null ],
     [ "Chroma.Input.GameControllers.ControllerAxisEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerAxisEventArgs.html", null ],
     [ "Chroma.Input.GameControllers.ControllerButtonEventArgs", "classChroma_1_1Input_1_1GameControllers_1_1ControllerButtonEventArgs.html", null ],
     [ "Chroma.Input.GameControllers.ControllerDriver", "classChroma_1_1Input_1_1GameControllers_1_1ControllerDriver.html", [
@@ -56,6 +59,7 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
+    [ "Chroma.Extensions", "classChroma_1_1Extensions.html", null ],
     [ "Chroma.Game", "classChroma_1_1Game.html", null ],
     [ "Chroma.GameStartupOptions", "classChroma_1_1GameStartupOptions.html", null ],
     [ "Chroma.Graphics.TextRendering.GlyphTransformData", "classChroma_1_1Graphics_1_1TextRendering_1_1GlyphTransformData.html", null ],
@@ -114,10 +118,13 @@ var hierarchy =
     [ "Chroma.Input.GameControllers.Drivers.Capabilities.ITouchEnabled", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1ITouchEnabled.html", [
       [ "Chroma.Input.GameControllers.Drivers.DualShockControllerDriver", "classChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1DualShockControllerDriver.html", null ]
     ] ],
+    [ "Chroma.Input.Keyboard", "classChroma_1_1Input_1_1Keyboard.html", null ],
     [ "Chroma.Input.KeyEventArgs", "classChroma_1_1Input_1_1KeyEventArgs.html", null ],
     [ "Chroma.Diagnostics.Logging.Log", "classChroma_1_1Diagnostics_1_1Logging_1_1Log.html", null ],
+    [ "Chroma.Diagnostics.Logging.LogManager", "classChroma_1_1Diagnostics_1_1Logging_1_1LogManager.html", null ],
     [ "Chroma.Windowing.MessageBox", "classChroma_1_1Windowing_1_1MessageBox.html", null ],
     [ "Chroma.Windowing.MessageBoxButton", "classChroma_1_1Windowing_1_1MessageBoxButton.html", null ],
+    [ "Chroma.Input.Mouse", "classChroma_1_1Input_1_1Mouse.html", null ],
     [ "Chroma.Input.MouseButtonEventArgs", "classChroma_1_1Input_1_1MouseButtonEventArgs.html", null ],
     [ "Chroma.Input.MouseButtonState", "structChroma_1_1Input_1_1MouseButtonState.html", null ],
     [ "Chroma.Input.MouseMoveEventArgs", "classChroma_1_1Input_1_1MouseMoveEventArgs.html", null ],
@@ -131,6 +138,8 @@ var hierarchy =
     [ "Chroma.Diagnostics.PerformanceCounter", "classChroma_1_1Diagnostics_1_1PerformanceCounter.html", null ],
     [ "Chroma.Hardware.ProductInfo", "structChroma_1_1Hardware_1_1ProductInfo.html", null ],
     [ "Chroma.Graphics.RenderContext", "classChroma_1_1Graphics_1_1RenderContext.html", null ],
+    [ "Chroma.Graphics.RenderSettings", "classChroma_1_1Graphics_1_1RenderSettings.html", null ],
+    [ "Chroma.Graphics.RenderTransform", "classChroma_1_1Graphics_1_1RenderTransform.html", null ],
     [ "Chroma.Diagnostics.Logging.Base.Sink", "classChroma_1_1Diagnostics_1_1Logging_1_1Base_1_1Sink.html", [
       [ "Chroma.Diagnostics.Logging.Sinks.ConsoleSink", "classChroma_1_1Diagnostics_1_1Logging_1_1Sinks_1_1ConsoleSink.html", null ],
       [ "Chroma.Diagnostics.Logging.Sinks.StreamSink", "classChroma_1_1Diagnostics_1_1Logging_1_1Sinks_1_1StreamSink.html", null ]

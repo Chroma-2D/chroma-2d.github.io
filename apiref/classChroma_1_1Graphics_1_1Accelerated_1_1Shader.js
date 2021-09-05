@@ -1,5 +1,6 @@
 var classChroma_1_1Graphics_1_1Accelerated_1_1Shader =
 [
+    [ "Deactivate", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a609b884129a04e21d20f722f6cd6e6e8", null ],
     [ "Activate", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a17b0d1a2d195f2f725f97bea469ffc1b", null ],
     [ "SetUniform", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a65cd520a48a86a8473708475c2b5084b", null ],
     [ "SetUniform", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a24cbd125b2abd52a061eda1db6557f43", null ],
@@ -22,5 +23,13 @@ var classChroma_1_1Graphics_1_1Accelerated_1_1Shader =
     [ "TryLinkShaders", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a66de21e358949f492edc8c4d4450cdd9", null ],
     [ "CleanupAfterLinking", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#aacfefe2f3546945e24bd4a799e28f4f1", null ],
     [ "CreateShaderBlock", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a3587ebe5f1d86eb4003d84579094fd07", null ],
-    [ "FreeNativeResources", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a2e1dd9d37e5635ad4cd99aac73a48f84", null ]
+    [ "FreeNativeResources", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a2e1dd9d37e5635ad4cd99aac73a48f84", null ],
+    [ "EnsureCustomShaderActive", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a989c8673c876d2f6d8f8d510f74c733c", null ],
+    [ "MinimumSupportedGlslVersion", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a94ffabaeba6c1b277c07f1d915beb9a3", null ],
+    [ "MaximumSupportedGlslVersion", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#ad87f8febf7be068354e66f52d65a589d", null ],
+    [ "IsDefaultActive", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#af64a9425fb21c069d8ade5a94f065050", null ],
+    [ "ModelViewProjection", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a9a9e5dff8a737b00a7274edada942b03", null ],
+    [ "ProjectionMatrix", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a423fe217d76a1289ee5410828a29a2d3", null ],
+    [ "ViewMatrix", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#af8ee86ea10ee0c8ecf38d0c29362cbcb", null ],
+    [ "ModelMatrix", "classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#ab7594362459691f0ff8f46e457450c60", null ]
 ];

@@ -9,6 +9,8 @@ var namespaceChroma =
     [ "MemoryManagement", "namespaceChroma_1_1MemoryManagement.html", "namespaceChroma_1_1MemoryManagement" ],
     [ "Threading", "namespaceChroma_1_1Threading.html", "namespaceChroma_1_1Threading" ],
     [ "Windowing", "namespaceChroma_1_1Windowing.html", "namespaceChroma_1_1Windowing" ],
+    [ "Clipboard", "classChroma_1_1Clipboard.html", "classChroma_1_1Clipboard" ],
+    [ "Extensions", "classChroma_1_1Extensions.html", "classChroma_1_1Extensions" ],
     [ "FrameworkException", "classChroma_1_1FrameworkException.html", "classChroma_1_1FrameworkException" ],
     [ "Game", "classChroma_1_1Game.html", "classChroma_1_1Game" ],
     [ "GameStartupOptions", "classChroma_1_1GameStartupOptions.html", "classChroma_1_1GameStartupOptions" ]

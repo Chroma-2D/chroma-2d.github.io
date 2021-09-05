@@ -5,6 +5,7 @@ var namespaceChroma_1_1Diagnostics_1_1Logging =
     [ "Sinks", "namespaceChroma_1_1Diagnostics_1_1Logging_1_1Sinks.html", "namespaceChroma_1_1Diagnostics_1_1Logging_1_1Sinks" ],
     [ "DuplicateSinkException", "classChroma_1_1Diagnostics_1_1Logging_1_1DuplicateSinkException.html", "classChroma_1_1Diagnostics_1_1Logging_1_1DuplicateSinkException" ],
     [ "Log", "classChroma_1_1Diagnostics_1_1Logging_1_1Log.html", "classChroma_1_1Diagnostics_1_1Logging_1_1Log" ],
+    [ "LogManager", "classChroma_1_1Diagnostics_1_1Logging_1_1LogManager.html", "classChroma_1_1Diagnostics_1_1Logging_1_1LogManager" ],
     [ "LogLevel", "namespaceChroma_1_1Diagnostics_1_1Logging.html#a8710cb082886fc43c352821662c03f7c", [
       [ "Info", "namespaceChroma_1_1Diagnostics_1_1Logging.html#a8710cb082886fc43c352821662c03f7ca4059b0251f66a18cb56f544728796875", null ],
       [ "Warning", "namespaceChroma_1_1Diagnostics_1_1Logging.html#a8710cb082886fc43c352821662c03f7ca0eaadb4fcb48a0a0ed7bc9868be9fbaa", null ],

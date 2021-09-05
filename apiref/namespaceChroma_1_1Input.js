@@ -1,8 +1,11 @@
 var namespaceChroma_1_1Input =
 [
     [ "GameControllers", "namespaceChroma_1_1Input_1_1GameControllers.html", "namespaceChroma_1_1Input_1_1GameControllers" ],
+    [ "Controller", "classChroma_1_1Input_1_1Controller.html", "classChroma_1_1Input_1_1Controller" ],
     [ "Cursor", "classChroma_1_1Input_1_1Cursor.html", "classChroma_1_1Input_1_1Cursor" ],
+    [ "Keyboard", "classChroma_1_1Input_1_1Keyboard.html", "classChroma_1_1Input_1_1Keyboard" ],
     [ "KeyEventArgs", "classChroma_1_1Input_1_1KeyEventArgs.html", "classChroma_1_1Input_1_1KeyEventArgs" ],
+    [ "Mouse", "classChroma_1_1Input_1_1Mouse.html", "classChroma_1_1Input_1_1Mouse" ],
     [ "MouseButtonEventArgs", "classChroma_1_1Input_1_1MouseButtonEventArgs.html", "classChroma_1_1Input_1_1MouseButtonEventArgs" ],
     [ "MouseButtonState", "structChroma_1_1Input_1_1MouseButtonState.html", "structChroma_1_1Input_1_1MouseButtonState" ],
     [ "MouseMoveEventArgs", "classChroma_1_1Input_1_1MouseMoveEventArgs.html", "classChroma_1_1Input_1_1MouseMoveEventArgs" ],

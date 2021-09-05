@@ -15,5 +15,6 @@ var classChroma_1_1Graphics_1_1Camera =
     [ "UseCenteredOrigin", "classChroma_1_1Graphics_1_1Camera.html#a6b69e8b6d074987e7bc35568a3e14cd2", null ],
     [ "Rotation", "classChroma_1_1Graphics_1_1Camera.html#a4395c3b217786e2bb0b337fd9fd9eafa", null ],
     [ "FarZ", "classChroma_1_1Graphics_1_1Camera.html#a7de0d1b5491cc7a7982c4317938a8c64", null ],
-    [ "NearZ", "classChroma_1_1Graphics_1_1Camera.html#a7ead515b55750aa93112cd9f7f0826a0", null ]
+    [ "NearZ", "classChroma_1_1Graphics_1_1Camera.html#a7ead515b55750aa93112cd9f7f0826a0", null ],
+    [ "Default", "classChroma_1_1Graphics_1_1Camera.html#a39053e8e355d9c583caab002744b976d", null ]
 ];

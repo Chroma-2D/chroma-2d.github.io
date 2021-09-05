@@ -11,6 +11,7 @@ var classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont =
     [ "GetRenderOffsets", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#abcc3e13f1eaa4177dbdd6c3b68a16cab", null ],
     [ "GetKerning", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a92791a3caf3ee0ddfd8e1df29a2b3edf", null ],
     [ "FreeManagedResources", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a4560927f21c0dafcaa4d1f87c11f30e6", null ],
+    [ "Default", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#ab137ab66ad0bcff326bcd2b3359d0081", null ],
     [ "FamilyName", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a4c4f39fd7cfb42a41df668bdfb83da97", null ],
     [ "Alphabet", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a1376324ca8780cf0fa8a37a71ea7eb00", null ],
     [ "IsKerningEnabled", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a9a69dfdc1bd01ec9e9ac2aa0e8be4d93", null ],
@@ -20,5 +21,6 @@ var classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont =
     [ "PreferAutoHinter", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a682a06835929a5f95064b3bdcd4dd4be", null ],
     [ "HintingEnabled", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a3a1958274750e32b373b4e3732ac89ca", null ],
     [ "HintingMode", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#aa3c7789754980f75e972f4246640ee6d", null ],
-    [ "KerningMode", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#ab6683a9083b391a495f876867bcf6652", null ]
+    [ "KerningMode", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#ab6683a9083b391a495f876867bcf6652", null ],
+    [ "FreeTypeVersion", "classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#ab8836ba321e85baf321996f8de6a17a0", null ]
 ];
