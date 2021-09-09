@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a35ff166190a311c32800b532849a4bab":[0,0,6,0,3],
+"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a709af632a3c3c99a28e9b54aca1425bc":[0,0,6,0,1],
 "classChroma_1_1MemoryManagement_1_1DisposableResource.html#adc98000726849045dd30a73387eebba2":[0,0,6,0,2],
 "classChroma_1_1MemoryManagement_1_1DisposableResource.html#adf3f99b6fc496151b6e3a58e481fc8ea":[0,0,6,0,0],
 "classChroma_1_1MemoryManagement_1_1DisposableResource.html#af63d1c0632805bdc2605012171a557a7":[0,0,6,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#a7bfa7102aeaac1b73bd5db1e6f177878a7a1920d61156abc05a60135aefe8bc67":[0,0,3,3,1,2,0],
 "namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886":[0,0,3,3,1,1],
 "namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886a7d51f2b8ce7130e9f9d023ad7f887589":[0,0,3,3,1,1,2],
-"namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886a960b44c579bc2f6818d2daaf9e4c16f0":[0,0,3,3,1,1,0],
-"namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886a9914a0ce04a7b7b6a8e39bec55064b82":[0,0,3,3,1,1,1],
-"namespaceChroma_1_1Hardware.html":[0,0,4]
+"namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886a960b44c579bc2f6818d2daaf9e4c16f0":[0,0,3,3,1,1,0]
 };

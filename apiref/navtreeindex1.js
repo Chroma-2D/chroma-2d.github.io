@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classChroma_1_1GameStartupOptions.html":[0,0,13],
+"classChroma_1_1GameStartupOptions.html#a34d8c6fa4e3492bbc9694c13828bc3fe":[0,0,13,2],
 "classChroma_1_1GameStartupOptions.html#a4d97a36231a974db65567f9e7ac10ff7":[0,0,13,3],
 "classChroma_1_1GameStartupOptions.html#a65722a6f2e07673684cea8daa726a6fe":[0,0,13,1],
 "classChroma_1_1GameStartupOptions.html#acbd08bc54583d923fecc9e05d013bb10":[0,0,13,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a06c88e6dfe7fc1c3420b7a02cffacffb":[0,0,3,3,0,0,2],
 "classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a076e1c30057d21faa86bef05015a8334":[0,0,3,3,0,0,5],
 "classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a1b4b4bad5dd3856e9eabdb4917ce6701":[0,0,3,3,0,0,10],
-"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a2b1698666b3a3dfd191f97495c59930f":[0,0,3,3,0,0,9],
-"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a2c4f3e9968bd883615fcaddf0dfe5214":[0,0,3,3,0,0,12],
-"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a487ac96013daf40fe7aee55856aa72b7":[0,0,3,3,0,0,3]
+"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a2b1698666b3a3dfd191f97495c59930f":[0,0,3,3,0,0,9]
 };

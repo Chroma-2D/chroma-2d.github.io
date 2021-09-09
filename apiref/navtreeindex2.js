@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a2c4f3e9968bd883615fcaddf0dfe5214":[0,0,3,3,0,0,12],
+"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a487ac96013daf40fe7aee55856aa72b7":[0,0,3,3,0,0,3],
 "classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a60fcbee4749aafa0a3ae601895ade4b9":[0,0,3,3,0,0,16],
 "classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a65b509288fed0ad16eeb40ad44fbb12b":[0,0,3,3,0,0,15],
 "classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a7894ab7fbf538a3c68267cdbb6b1c0fc":[0,0,3,3,0,0,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX2 =
 "classChroma_1_1Input_1_1TextInputEventArgs.html":[0,0,5,10],
 "classChroma_1_1Input_1_1TextInputEventArgs.html#ab60f92f7b38e569526fdbf0335eb5535":[0,0,5,10,0],
 "classChroma_1_1MemoryManagement_1_1DisposableResource.html":[0,0,6,0],
-"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a0cb6c60e3e3c1f9e7a7bf7e8703bc38c":[0,0,6,0,5],
-"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a35ff166190a311c32800b532849a4bab":[0,0,6,0,3],
-"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a709af632a3c3c99a28e9b54aca1425bc":[0,0,6,0,1]
+"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a0cb6c60e3e3c1f9e7a7bf7e8703bc38c":[0,0,6,0,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886a9914a0ce04a7b7b6a8e39bec55064b82":[0,0,3,3,1,1,1],
+"namespaceChroma_1_1Hardware.html":[0,0,4],
 "namespaceChroma_1_1Hardware.html#a8dc0518d5ddcf9d26b59594e66294bdb":[0,0,4,1],
 "namespaceChroma_1_1Hardware.html#a8dc0518d5ddcf9d26b59594e66294bdba183b62c7f067711f9c5a54913c054617":[0,0,4,1,1],
 "namespaceChroma_1_1Hardware.html#a8dc0518d5ddcf9d26b59594e66294bdba1b34de2d6014076316fbcd1320f0e3cd":[0,0,4,1,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX4 =
 "namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1cdc076b28f70afac5fcedadf99fa119":[0,0,5,14,121],
 "namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1d44f9467edb55796c014a68a43c5f7e":[0,0,5,14,169],
 "namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1f328a53aa84722ee20c0b88822b7fc9":[0,0,5,14,146],
-"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1faf42f2823f184eb2c9f0dffe5d73f2":[0,0,5,14,61],
-"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa2022d404e0e914c22833cdea3c42670e":[0,0,5,14,140],
-"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa21c2e59531c8710156d34a3c30ac81d5":[0,0,5,14,25]
+"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1faf42f2823f184eb2c9f0dffe5d73f2":[0,0,5,14,61]
 };

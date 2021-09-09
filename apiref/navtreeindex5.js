@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa2022d404e0e914c22833cdea3c42670e":[0,0,5,14,140],
+"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa21c2e59531c8710156d34a3c30ac81d5":[0,0,5,14,25],
 "namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa243924bfd56a682be235638b53961e09":[0,0,5,14,190],
 "namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa2468649b6215c4cdd2aef5095b3f5932":[0,0,5,14,69],
 "namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa258f49887ef8d14ac268c92b02503aaa":[0,0,5,14,91],
@@ -247,7 +249,5 @@ var NAVTREEINDEX5 =
 "structChroma_1_1Graphics_1_1Color.html#a1a8b52cbed0c5ce9b744f45e9249bf7b":[0,0,3,5,121],
 "structChroma_1_1Graphics_1_1Color.html#a1e80d260c6273e1ce6237fc01bc16f03":[0,0,3,5,117],
 "structChroma_1_1Graphics_1_1Color.html#a20d6b1464ae985c943dad5a0e03dcee8":[0,0,3,5,96],
-"structChroma_1_1Graphics_1_1Color.html#a2248496736e1de893ba82ae82461593f":[0,0,3,5,126],
-"structChroma_1_1Graphics_1_1Color.html#a236a1a55edb0e386c909dde30fc2c1b6":[0,0,3,5,16],
-"structChroma_1_1Graphics_1_1Color.html#a23f66e57d2f163a704cc6ea8f9dfe806":[0,0,3,5,124]
+"structChroma_1_1Graphics_1_1Color.html#a2248496736e1de893ba82ae82461593f":[0,0,3,5,126]
 };

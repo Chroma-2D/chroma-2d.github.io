@@ -210,7 +210,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
 
     if (/namespace[A-Z]+/.test(a.className)) {
         if (!a.className.includes(':')) {
-            node.li.className = "folder-item";
+            node.li.className = "fa fa-icon folder-item";
         }
         else {
             node.li.className = "class-item";
