@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['handle_0',['Handle',['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ad8e651caaff0f797d68806953e7ebb27',1,'Chroma::Audio::Sources::AudioSource']]],
+  ['handle_0',['Handle',['../classChroma_1_1Windowing_1_1Window.html#a8fd1e1b86f01a56ebb5e8e9a52a8bcc0',1,'Chroma.Windowing.Window.Handle()'],['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ad8e651caaff0f797d68806953e7ebb27',1,'Chroma.Audio.Sources.AudioSource.Handle()']]],
   ['hasaccelerometer_1',['HasAccelerometer',['../classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo.html#a684f8cfc4955a42000e66651e432ab53',1,'Chroma::Input::GameControllers::ControllerInfo']]],
   ['hasconfigurableled_2',['HasConfigurableLed',['../classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo.html#a83f627416a4f55d99e15f7911a3eea22',1,'Chroma::Input::GameControllers::ControllerInfo']]],
   ['hasgyroscope_3',['HasGyroscope',['../classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo.html#a02025b2227dfc50d2df9b008a2fe4c97',1,'Chroma::Input::GameControllers::ControllerInfo']]],

@@ -14,6 +14,7 @@ var namespaceChroma_1_1Graphics =
     [ "Display", "classChroma_1_1Graphics_1_1Display.html", "classChroma_1_1Graphics_1_1Display" ],
     [ "DisplayDpi", "classChroma_1_1Graphics_1_1DisplayDpi.html", "classChroma_1_1Graphics_1_1DisplayDpi" ],
     [ "DisplayMode", "classChroma_1_1Graphics_1_1DisplayMode.html", "classChroma_1_1Graphics_1_1DisplayMode" ],
+    [ "Extensions", "classChroma_1_1Graphics_1_1Extensions.html", "classChroma_1_1Graphics_1_1Extensions" ],
     [ "GraphicsException", "classChroma_1_1Graphics_1_1GraphicsException.html", null ],
     [ "GraphicsManager", "classChroma_1_1Graphics_1_1GraphicsManager.html", "classChroma_1_1Graphics_1_1GraphicsManager" ],
     [ "RenderContext", "classChroma_1_1Graphics_1_1RenderContext.html", "classChroma_1_1Graphics_1_1RenderContext" ],

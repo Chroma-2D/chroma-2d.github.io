@@ -1,7 +1,7 @@
 var classChroma_1_1Graphics_1_1GraphicsManager =
 [
-    [ "GetRendererNames", "classChroma_1_1Graphics_1_1GraphicsManager.html#aeccc0e20dca67b54804155f053bda963", null ],
-    [ "GetDisplayList", "classChroma_1_1Graphics_1_1GraphicsManager.html#a9474328a9dffc03eeb536ca26eaaa4e8", null ],
+    [ "GetRendererNames", "classChroma_1_1Graphics_1_1GraphicsManager.html#ae10d1352d9dcd09a3e3a88316495d798", null ],
+    [ "GetDisplayList", "classChroma_1_1Graphics_1_1GraphicsManager.html#a53a5197220822a599852c8ae5889f63f", null ],
     [ "FetchDisplay", "classChroma_1_1Graphics_1_1GraphicsManager.html#a19db4f73b23c8cd63f81b886166c6234", null ],
     [ "ViewportAutoResize", "classChroma_1_1Graphics_1_1GraphicsManager.html#ae0817c36b6310d6b61149b5bfcf63d4a", null ],
     [ "LimitFramerate", "classChroma_1_1Graphics_1_1GraphicsManager.html#ad3c457e08e20db2a76b4ed8e8548750d", null ],

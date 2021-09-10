@@ -1,7 +1,7 @@
 var searchData=
 [
   ['h_0',['H',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5ac1d9f50f86825a1a2302ec2449c17196',1,'Chroma.Input.H()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fac1d9f50f86825a1a2302ec2449c17196',1,'Chroma.Input.H()']]],
-  ['handle_1',['Handle',['../classChroma_1_1Windowing_1_1Window.html#ad14cb75ec8e6a71ed1fa6bdd2fd02a9f',1,'Chroma.Windowing.Window.Handle()'],['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ad8e651caaff0f797d68806953e7ebb27',1,'Chroma.Audio.Sources.AudioSource.Handle()']]],
+  ['handle_1',['Handle',['../classChroma_1_1Windowing_1_1Window.html#a8fd1e1b86f01a56ebb5e8e9a52a8bcc0',1,'Chroma.Windowing.Window.Handle()'],['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ad8e651caaff0f797d68806953e7ebb27',1,'Chroma.Audio.Sources.AudioSource.Handle()']]],
   ['handleabnormalclosurewith_2',['HandleAbnormalClosureWith',['../classChroma_1_1Windowing_1_1MessageBox.html#ae34c0a22e449fc7c32a07cb9d381d303',1,'Chroma::Windowing::MessageBox']]],
   ['hasaccelerometer_3',['HasAccelerometer',['../classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo.html#a684f8cfc4955a42000e66651e432ab53',1,'Chroma::Input::GameControllers::ControllerInfo']]],
   ['hasconfigurableled_4',['HasConfigurableLed',['../classChroma_1_1Input_1_1GameControllers_1_1ControllerInfo.html#a83f627416a4f55d99e15f7911a3eea22',1,'Chroma::Input::GameControllers::ControllerInfo']]],

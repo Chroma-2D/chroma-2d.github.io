@@ -17,6 +17,7 @@ var classChroma_1_1Graphics_1_1Texture =
     [ "SetBlendingMode", "classChroma_1_1Graphics_1_1Texture.html#ac6c2dc48cfe886f0e7578ebd1677b79c", null ],
     [ "GenerateMipMaps", "classChroma_1_1Graphics_1_1Texture.html#a9ea073c5e2ceefd16a2c3e0a171711ae", null ],
     [ "EnsureOnMainThread", "classChroma_1_1Graphics_1_1Texture.html#a6978336992a371129f3c287bbd0d0b47", null ],
+    [ "EnsureHandleValid", "classChroma_1_1Graphics_1_1Texture.html#adeec61746e5e8df6980f95e6e30b7ddb", null ],
     [ "FreeNativeResources", "classChroma_1_1Graphics_1_1Texture.html#a03106eac8c6c4d74f4e0054e236620b3", null ],
     [ "Format", "classChroma_1_1Graphics_1_1Texture.html#a9b1fcea38a95dc103676083301468add", null ],
     [ "Width", "classChroma_1_1Graphics_1_1Texture.html#ae0185d0b147b4e8d7a85239799e70c95", null ],

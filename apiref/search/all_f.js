@@ -26,7 +26,7 @@ var searchData=
   ['period_23',['Period',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a1901606ea069a83dc7beea17881ef95a',1,'Chroma.Input.Period()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1901606ea069a83dc7beea17881ef95a',1,'Chroma.Input.Period()']]],
   ['peru_24',['Peru',['../structChroma_1_1Graphics_1_1Color.html#abad9a08d3c74648053a3d2fbf13a3cb2',1,'Chroma::Graphics::Color']]],
   ['pink_25',['Pink',['../structChroma_1_1Graphics_1_1Color.html#ac5b857d0d34cdeb66ea32fa18b12ecfe',1,'Chroma::Graphics::Color']]],
-  ['pixel_26',['Pixel',['../classChroma_1_1Extensions.html#a95168460f6a57fefe929e15b434ada35',1,'Chroma.Extensions.Pixel()'],['../classChroma_1_1Graphics_1_1RenderContext.html#a3ed22d5686cbc80011b88341bf26f9c0',1,'Chroma.Graphics.RenderContext.Pixel()']]],
+  ['pixel_26',['Pixel',['../classChroma_1_1Graphics_1_1Extensions.html#a21de4c0637321c8306ab928f32040e60',1,'Chroma.Graphics.Extensions.Pixel()'],['../classChroma_1_1Graphics_1_1RenderContext.html#a3ed22d5686cbc80011b88341bf26f9c0',1,'Chroma.Graphics.RenderContext.Pixel()']]],
   ['pixelformat_27',['PixelFormat',['../namespaceChroma_1_1Graphics.html#a38edf6f0643fe46bae980e94b7e6b90f',1,'Chroma::Graphics']]],
   ['pixelshader_28',['PixelShader',['../classChroma_1_1Graphics_1_1Accelerated_1_1PixelShader.html',1,'Chroma.Graphics.Accelerated.PixelShader'],['../classChroma_1_1Graphics_1_1Accelerated_1_1PixelShader.html#a78413c5f83773e0dcaadec9d3b0c4700',1,'Chroma.Graphics.Accelerated.PixelShader.PixelShader()']]],
   ['pixelshaderfilepath_29',['PixelShaderFilePath',['../classChroma_1_1Graphics_1_1Accelerated_1_1CompoundShader.html#a1b56914176e47e02c4a3e727969b4475',1,'Chroma::Graphics::Accelerated::CompoundShader']]],

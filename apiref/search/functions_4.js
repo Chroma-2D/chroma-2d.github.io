@@ -1,10 +1,10 @@
 var searchData=
 [
   ['effect_0',['Effect',['../classChroma_1_1Graphics_1_1Accelerated_1_1Effect.html#aaa5c00b3c51ac34dab19528e35794466',1,'Chroma::Graphics::Accelerated::Effect']]],
-  ['ellipse_1',['Ellipse',['../classChroma_1_1Extensions.html#acbf3cd9526ab435b5723c25ada2c3e70',1,'Chroma.Extensions.Ellipse()'],['../classChroma_1_1Graphics_1_1RenderContext.html#af72db65b06da47d0601633be22149842',1,'Chroma.Graphics.RenderContext.Ellipse()']]],
+  ['ellipse_1',['Ellipse',['../classChroma_1_1Graphics_1_1Extensions.html#a4746c9f56b75828b18bf953be51c4025',1,'Chroma.Graphics.Extensions.Ellipse()'],['../classChroma_1_1Graphics_1_1RenderContext.html#af72db65b06da47d0601633be22149842',1,'Chroma.Graphics.RenderContext.Ellipse()']]],
   ['emit_2',['Emit',['../classChroma_1_1Graphics_1_1Particles_1_1ParticleEmitter.html#a9f89178553a28e32c14d6cc0c7a95a56',1,'Chroma::Graphics::Particles::ParticleEmitter']]],
   ['ensurecustomshaderactive_3',['EnsureCustomShaderActive',['../classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html#a989c8673c876d2f6d8f8d510f74c733c',1,'Chroma::Graphics::Accelerated::Shader']]],
-  ['ensurehandlevalid_4',['EnsureHandleValid',['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a9b77a68750b71e91274816f02674b78b',1,'Chroma::Audio::Sources::AudioSource']]],
+  ['ensurehandlevalid_4',['EnsureHandleValid',['../classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a9b77a68750b71e91274816f02674b78b',1,'Chroma.Audio.Sources.AudioSource.EnsureHandleValid()'],['../classChroma_1_1Graphics_1_1Texture.html#adeec61746e5e8df6980f95e6e30b7ddb',1,'Chroma.Graphics.Texture.EnsureHandleValid()']]],
   ['ensurenotdisposed_5',['EnsureNotDisposed',['../classChroma_1_1MemoryManagement_1_1DisposableResource.html#a35ff166190a311c32800b532849a4bab',1,'Chroma::MemoryManagement::DisposableResource']]],
   ['ensureonmainthread_6',['EnsureOnMainThread',['../classChroma_1_1Graphics_1_1Texture.html#a6978336992a371129f3c287bbd0d0b47',1,'Chroma::Graphics::Texture']]],
   ['equals_7',['Equals',['../structChroma_1_1Graphics_1_1Color.html#a8668ca8f687b099d0239e2397e742739',1,'Chroma.Graphics.Color.Equals(object obj)'],['../structChroma_1_1Graphics_1_1Color.html#a3737dd99aff27f83685cb7bbe76ed427',1,'Chroma.Graphics.Color.Equals(Color other)']]],

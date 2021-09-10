@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"structChroma_1_1Graphics_1_1Color.html#a1a8b52cbed0c5ce9b744f45e9249bf7b":[0,0,3,5,121],
+"structChroma_1_1Graphics_1_1Color.html#a1e80d260c6273e1ce6237fc01bc16f03":[0,0,3,5,117],
+"structChroma_1_1Graphics_1_1Color.html#a20d6b1464ae985c943dad5a0e03dcee8":[0,0,3,5,96],
+"structChroma_1_1Graphics_1_1Color.html#a2248496736e1de893ba82ae82461593f":[0,0,3,5,126],
 "structChroma_1_1Graphics_1_1Color.html#a236a1a55edb0e386c909dde30fc2c1b6":[0,0,3,5,16],
 "structChroma_1_1Graphics_1_1Color.html#a23f66e57d2f163a704cc6ea8f9dfe806":[0,0,3,5,124],
 "structChroma_1_1Graphics_1_1Color.html#a252e0fdc131a6f2e57351767bb037e73":[0,0,3,5,11],

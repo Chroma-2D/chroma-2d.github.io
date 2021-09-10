@@ -11,7 +11,7 @@ var classChroma_1_1Windowing_1_1Window =
     [ "SetIcon", "classChroma_1_1Windowing_1_1Window.html#af2ca5070ff539c21c62ee9ffd7c8d13f", null ],
     [ "SaveScreenshot", "classChroma_1_1Windowing_1_1Window.html#a42343561f8c30ddd5da541410bdc6584", null ],
     [ "FreeNativeResources", "classChroma_1_1Windowing_1_1Window.html#a59138440bf333b8631966799d24e87f2", null ],
-    [ "Handle", "classChroma_1_1Windowing_1_1Window.html#ad14cb75ec8e6a71ed1fa6bdd2fd02a9f", null ],
+    [ "Handle", "classChroma_1_1Windowing_1_1Window.html#a8fd1e1b86f01a56ebb5e8e9a52a8bcc0", null ],
     [ "Exists", "classChroma_1_1Windowing_1_1Window.html#a8a6b1c24e3b6be84bc396ba6a9f1db33", null ],
     [ "Size", "classChroma_1_1Windowing_1_1Window.html#a286645ba96f0e9d803c1a134e108a580", null ],
     [ "Position", "classChroma_1_1Windowing_1_1Window.html#a76d4e43da9511f539c89a6063f363e9a", null ],

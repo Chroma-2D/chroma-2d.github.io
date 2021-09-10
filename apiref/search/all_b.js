@@ -48,7 +48,7 @@ var searchData=
   ['lime_45',['Lime',['../structChroma_1_1Graphics_1_1Color.html#aeba95f9a22b312a4dacf4c8ecd9dd60b',1,'Chroma::Graphics::Color']]],
   ['limegreen_46',['LimeGreen',['../structChroma_1_1Graphics_1_1Color.html#ad65023eb84a2a0d1c9f04ce220d436e2',1,'Chroma::Graphics::Color']]],
   ['limitframerate_47',['LimitFramerate',['../classChroma_1_1Graphics_1_1GraphicsManager.html#ad3c457e08e20db2a76b4ed8e8548750d',1,'Chroma::Graphics::GraphicsManager']]],
-  ['line_48',['Line',['../classChroma_1_1Extensions.html#a89871cf3f95d3755b28edee3752e8211',1,'Chroma.Extensions.Line()'],['../classChroma_1_1Graphics_1_1RenderContext.html#a5fc0b831e65e611202ee2988dfbb6262',1,'Chroma.Graphics.RenderContext.Line()']]],
+  ['line_48',['Line',['../classChroma_1_1Graphics_1_1Extensions.html#a17bbb943fd9358f8561e33297586f5b3',1,'Chroma.Graphics.Extensions.Line()'],['../classChroma_1_1Graphics_1_1RenderContext.html#a5fc0b831e65e611202ee2988dfbb6262',1,'Chroma.Graphics.RenderContext.Line()']]],
   ['linear_49',['Linear',['../namespaceChroma_1_1Graphics.html#aa3a5dcf92a2a79a46a8393670a5d193da32a843da6ea40ab3b17a3421ccdf671b',1,'Chroma::Graphics']]],
   ['linearmipmapped_50',['LinearMipmapped',['../namespaceChroma_1_1Graphics.html#aa3a5dcf92a2a79a46a8393670a5d193da1e36f5bfa8801e6c4fec4bdc7b6066ff',1,'Chroma::Graphics']]],
   ['linearpositionx_51',['LinearPositionX',['../classChroma_1_1Graphics_1_1Particles_1_1BuiltInParticleStateIntegrators.html#a2ecb56ba245063ec1d94a694b5ab0c39',1,'Chroma::Graphics::Particles::BuiltInParticleStateIntegrators']]],

@@ -32,12 +32,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "classChroma_1_1Audio_1_1AudioCaptureEventArgs.html",
-"classChroma_1_1GameStartupOptions.html",
-"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a2c4f3e9968bd883615fcaddf0dfe5214",
-"classChroma_1_1MemoryManagement_1_1DisposableResource.html#a35ff166190a311c32800b532849a4bab",
-"namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#ab705fa1dbbf09f92f85068951dd47886a9914a0ce04a7b7b6a8e39bec55064b82",
-"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa2022d404e0e914c22833cdea3c42670e",
-"structChroma_1_1Graphics_1_1Color.html#a236a1a55edb0e386c909dde30fc2c1b6"
+"classChroma_1_1Graphics_1_1Accelerated_1_1Shader.html",
+"classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a076e1c30057d21faa86bef05015a8334",
+"classChroma_1_1Input_1_1TextInputEventArgs.html",
+"namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#a7bfa7102aeaac1b73bd5db1e6f177878a7a1920d61156abc05a60135aefe8bc67",
+"namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fa1cdc076b28f70afac5fcedadf99fa119",
+"structChroma_1_1Graphics_1_1Color.html#a1a8b52cbed0c5ce9b744f45e9249bf7b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

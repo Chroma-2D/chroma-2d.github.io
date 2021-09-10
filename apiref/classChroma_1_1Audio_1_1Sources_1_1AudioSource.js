@@ -4,7 +4,6 @@ var classChroma_1_1Audio_1_1Sources_1_1AudioSource =
     [ "Play", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a0b12cddff41aa291ede8d4aa4a2bb8ac", null ],
     [ "Pause", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ab5a6bef4fa4c85ecac4029ec1207fb04", null ],
     [ "Stop", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a09d5b45c885dd04c8174b0196433cdb3", null ],
-    [ "NotifyInitializationFinished", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ad5c8e11f7bcae084b0055fade5f111be", null ],
     [ "EnsureHandleValid", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#a9b77a68750b71e91274816f02674b78b", null ],
     [ "FreeNativeResources", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ab4de22226b2f64bc5ca88ed94ff25166", null ],
     [ "Handle", "classChroma_1_1Audio_1_1Sources_1_1AudioSource.html#ad8e651caaff0f797d68806953e7ebb27", null ],
