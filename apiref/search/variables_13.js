@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['yellow_0',['Yellow',['../structChroma_1_1Graphics_1_1Color.html#a595bed20378c4f45ced5c06ac5b4d3f7',1,'Chroma::Graphics::Color']]],
-  ['yellowgreen_1',['YellowGreen',['../structChroma_1_1Graphics_1_1Color.html#af4d821ceb04e2ad90f1c99f0c74fad48',1,'Chroma::Graphics::Color']]]
+  ['velocity_0',['Velocity',['../classChroma_1_1Graphics_1_1Particles_1_1Particle.html#a47bb0512b22bf0799fbfb505052a61cd',1,'Chroma::Graphics::Particles::Particle']]],
+  ['violet_1',['Violet',['../structChroma_1_1Graphics_1_1Color.html#a96f9a1e651a70a2dabe67cc03ec6bd77',1,'Chroma::Graphics::Color']]]
 ];

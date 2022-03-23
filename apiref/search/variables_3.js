@@ -20,6 +20,8 @@ var searchData=
   ['deeppink_17',['DeepPink',['../structChroma_1_1Graphics_1_1Color.html#a5ad35b5693d64dfeeadec91c8a0b81e1',1,'Chroma::Graphics::Color']]],
   ['deepskyblue_18',['DeepSkyBlue',['../structChroma_1_1Graphics_1_1Color.html#a46cff6083fc37e8970404d2182da7cf9',1,'Chroma::Graphics::Color']]],
   ['default_19',['Default',['../classChroma_1_1Audio_1_1AudioFormat.html#ac9aeb119724de4bc178c3e60a0aac750',1,'Chroma::Audio::AudioFormat']]],
-  ['dimgray_20',['DimGray',['../structChroma_1_1Graphics_1_1Color.html#aa1920274c2c965e32e6112cc3626e455',1,'Chroma::Graphics::Color']]],
-  ['dodgerblue_21',['DodgerBlue',['../structChroma_1_1Graphics_1_1Color.html#ad3932fe7bafce7f4d8ce192e3b62adc0',1,'Chroma::Graphics::Color']]]
+  ['devanagari_20',['Devanagari',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a39d540d786b05ff2a8c29e09505baa21',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['dimgray_21',['DimGray',['../structChroma_1_1Graphics_1_1Color.html#aa1920274c2c965e32e6112cc3626e455',1,'Chroma::Graphics::Color']]],
+  ['dingbats_22',['Dingbats',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a8b13f0b745b1e5458add17956aa0db1a',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['dodgerblue_23',['DodgerBlue',['../structChroma_1_1Graphics_1_1Color.html#ad3932fe7bafce7f4d8ce192e3b62adc0',1,'Chroma::Graphics::Color']]]
 ];

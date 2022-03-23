@@ -1,4 +1,0 @@
-var namespaceChroma_1_1Graphics_1_1Particles_1_1StateInitializers =
-[
-    [ "RandomizedStateInitializer", "classChroma_1_1Graphics_1_1Particles_1_1StateInitializers_1_1RandomizedStateInitializer.html", "classChroma_1_1Graphics_1_1Particles_1_1StateInitializers_1_1RandomizedStateInitializer" ]
-];

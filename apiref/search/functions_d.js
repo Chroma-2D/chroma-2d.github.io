@@ -6,5 +6,5 @@ var searchData=
   ['operator_20system_2edrawing_2ecolor_3',['operator System.Drawing.Color',['../structChroma_1_1Graphics_1_1Color.html#ae8881b0452947b39ad3393a133c463f1',1,'Chroma::Graphics::Color']]],
   ['operator_21_3d_4',['operator!=',['../structChroma_1_1Graphics_1_1Color.html#ae6eaef86203c823286cf1380fb4153e9',1,'Chroma::Graphics::Color']]],
   ['operator_3d_3d_5',['operator==',['../structChroma_1_1Graphics_1_1Color.html#acf0287b1b3519f092b42f1622a1e97a4',1,'Chroma::Graphics::Color']]],
-  ['orthographic_6',['Orthographic',['../classChroma_1_1Graphics_1_1RenderTransform.html#a1b6ce6e4fd1f31a6749088aa0c2c0798',1,'Chroma::Graphics::RenderTransform']]]
+  ['orthographic_6',['Orthographic',['../classChroma_1_1Graphics_1_1RenderTransform.html#af46ba2232c343a2ddf23d0b0147bd8d0',1,'Chroma::Graphics::RenderTransform']]]
 ];

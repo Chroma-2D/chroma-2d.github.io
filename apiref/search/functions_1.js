@@ -1,5 +1,6 @@
 var searchData=
 [
   ['batch_0',['Batch',['../classChroma_1_1Graphics_1_1RenderContext.html#ada842c0533a01ef3c60f85bde2e574c9',1,'Chroma::Graphics::RenderContext']]],
-  ['bitmapfont_1',['BitmapFont',['../classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a83d685d50adb7d32690db38ff35bcd89',1,'Chroma::Graphics::TextRendering::Bitmap::BitmapFont']]]
+  ['bitmapfont_1',['BitmapFont',['../classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a83d685d50adb7d32690db38ff35bcd89',1,'Chroma::Graphics::TextRendering::Bitmap::BitmapFont']]],
+  ['bitmapfontexception_2',['BitmapFontException',['../classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFontException.html#a7563b8c917f12ad1c4505e5a25997715',1,'Chroma::Graphics::TextRendering::Bitmap::BitmapFontException']]]
 ];

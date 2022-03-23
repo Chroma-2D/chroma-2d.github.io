@@ -16,5 +16,6 @@ var searchData=
   ['dpaddown_13',['DpadDown',['../namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffaf926cb67913be40219a97ec3889f90d9',1,'Chroma::Input::GameControllers']]],
   ['dpadleft_14',['DpadLeft',['../namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffa126eb11514ec5936a690e24fce06a075',1,'Chroma::Input::GameControllers']]],
   ['dpadright_15',['DpadRight',['../namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffad3c7cfd48048567e4d093aaad0bbcb7a',1,'Chroma::Input::GameControllers']]],
-  ['dpadup_16',['DpadUp',['../namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffad3ca4590094b47dd5e7ddfd4679a1139',1,'Chroma::Input::GameControllers']]]
+  ['dpadup_16',['DpadUp',['../namespaceChroma_1_1Input_1_1GameControllers.html#aae6d31ae03c56155928170db1d1c71ffad3ca4590094b47dd5e7ddfd4679a1139',1,'Chroma::Input::GameControllers']]],
+  ['draggable_17',['Draggable',['../namespaceChroma_1_1Windowing.html#a22a32df7f95bc3128e22b8571c99f12fa235a2f24c89c28b3e94afab97d5d1d1d',1,'Chroma::Windowing']]]
 ];

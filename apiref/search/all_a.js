@@ -1,12 +1,20 @@
 var searchData=
 [
-  ['k_0',['K',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5aa5f3c6a11b03839d46af9fb43c97c188',1,'Chroma.Input.K()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931faa5f3c6a11b03839d46af9fb43c97c188',1,'Chroma.Input.K()']]],
-  ['kerningmode_1',['KerningMode',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#ab6683a9083b391a495f876867bcf6652',1,'Chroma.Graphics.TextRendering.TrueType.TrueTypeFont.KerningMode()'],['../namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#a7bfa7102aeaac1b73bd5db1e6f177878',1,'Chroma.Graphics.TextRendering.TrueType.KerningMode()']]],
-  ['keyboard_2',['Keyboard',['../classChroma_1_1Input_1_1Keyboard.html',1,'Chroma::Input']]],
-  ['keycode_3',['KeyCode',['../classChroma_1_1Input_1_1KeyEventArgs.html#af2df1983673320a741f24d48ce21ef82',1,'Chroma.Input.KeyEventArgs.KeyCode()'],['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5',1,'Chroma.Input.KeyCode()']]],
-  ['keyeventargs_4',['KeyEventArgs',['../classChroma_1_1Input_1_1KeyEventArgs.html',1,'Chroma::Input']]],
-  ['keymodifiers_5',['KeyModifiers',['../namespaceChroma_1_1Input.html#ac7fa46fb04ebebbf7d786c299d917269',1,'Chroma::Input']]],
-  ['keypressed_6',['KeyPressed',['../classChroma_1_1Game.html#af0d30089dfad338fe5231196f20e1b96',1,'Chroma::Game']]],
-  ['keyreleased_7',['KeyReleased',['../classChroma_1_1Game.html#a6e13e8aa490fad530352fd72e0cc9366',1,'Chroma::Game']]],
-  ['khaki_8',['Khaki',['../structChroma_1_1Graphics_1_1Color.html#aad44a16238b570b076d30194f3db7475',1,'Chroma::Graphics::Color']]]
+  ['k_0',['K',['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931faa5f3c6a11b03839d46af9fb43c97c188',1,'Chroma.Input.K()'],['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5aa5f3c6a11b03839d46af9fb43c97c188',1,'Chroma.Input.K()']]],
+  ['kanbun_1',['Kanbun',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a65a463b87fd28d1985a4b35529da0a79',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['kangxiradicals_2',['KangxiRadicals',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a77bb4d1114d224fd46609b935c3e0340',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['kannada_3',['Kannada',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#ab1c17dd29d2d1c9ffb007ce980634913',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['katakana_4',['Katakana',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a91e11629af0dfef724b88f56a26debd5',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['katakanaphoneticextensions_5',['KatakanaPhoneticExtensions',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a3a200a46959502316f741b8144040092',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['kerningmode_6',['KerningMode',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#ab6683a9083b391a495f876867bcf6652',1,'Chroma.Graphics.TextRendering.TrueType.TrueTypeFont.KerningMode()'],['../namespaceChroma_1_1Graphics_1_1TextRendering_1_1TrueType.html#a7bfa7102aeaac1b73bd5db1e6f177878',1,'Chroma.Graphics.TextRendering.TrueType.KerningMode()']]],
+  ['keyboard_7',['Keyboard',['../classChroma_1_1Input_1_1Keyboard.html',1,'Chroma::Input']]],
+  ['keycode_8',['KeyCode',['../classChroma_1_1Input_1_1KeyEventArgs.html#af2df1983673320a741f24d48ce21ef82',1,'Chroma.Input.KeyEventArgs.KeyCode()'],['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5',1,'Chroma.Input.KeyCode()']]],
+  ['keycodetoscancode_9',['KeyCodeToScanCode',['../classChroma_1_1Input_1_1Keyboard.html#ab7bc5ed5596530738b0a2408baa90bc0',1,'Chroma::Input::Keyboard']]],
+  ['keyeventargs_10',['KeyEventArgs',['../classChroma_1_1Input_1_1KeyEventArgs.html',1,'Chroma::Input']]],
+  ['keymodifiers_11',['KeyModifiers',['../namespaceChroma_1_1Input.html#ac7fa46fb04ebebbf7d786c299d917269',1,'Chroma::Input']]],
+  ['keypressed_12',['KeyPressed',['../classChroma_1_1Game.html#af0d30089dfad338fe5231196f20e1b96',1,'Chroma::Game']]],
+  ['keyreleased_13',['KeyReleased',['../classChroma_1_1Game.html#a6e13e8aa490fad530352fd72e0cc9366',1,'Chroma::Game']]],
+  ['khaki_14',['Khaki',['../structChroma_1_1Graphics_1_1Color.html#aad44a16238b570b076d30194f3db7475',1,'Chroma::Graphics::Color']]],
+  ['khmer_15',['Khmer',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#aa1ab2198ed2b50700eb904cfb9f58592',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['khmersymbols_16',['KhmerSymbols',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a53c8ca3fe530d2391d68111418a64119',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]]
 ];

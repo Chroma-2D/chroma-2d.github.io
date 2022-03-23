@@ -1,6 +1,0 @@
-var namespaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities =
-[
-    [ "IAccelerometerEnabled", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1IAccelerometerEnabled.html", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1IAccelerometerEnabled" ],
-    [ "IGyroscopeEnabled", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1IGyroscopeEnabled.html", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1IGyroscopeEnabled" ],
-    [ "ITouchEnabled", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1ITouchEnabled.html", "interfaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Capabilities_1_1ITouchEnabled" ]
-];

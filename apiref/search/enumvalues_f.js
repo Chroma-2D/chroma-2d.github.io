@@ -14,10 +14,13 @@ var searchData=
   ['playstation5_11',['PlayStation5',['../namespaceChroma_1_1Input_1_1GameControllers.html#ac071c09ebb362e474d373656ce1aabc0a8f9a9bff56e92b3e9791ea68a304edf0',1,'Chroma::Input::GameControllers']]],
   ['plus_12',['Plus',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5a32ba78fe43257d3e7f88e3935a8ea0d4',1,'Chroma::Input']]],
   ['png_13',['PNG',['../namespaceChroma_1_1Graphics.html#ae216f7678b2736a412e49e4593003cb8a55505ba281b015ec31f03ccb151b2a34',1,'Chroma::Graphics']]],
-  ['position_14',['Position',['../namespaceChroma_1_1Graphics.html#af52a0116d44c9cec77b6b4237899c429a52f5e0bc3859bc5f5e25130b6c7e8881',1,'Chroma::Graphics']]],
-  ['power_15',['Power',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5add4fe0cc913f704600b97d1f5dd285de',1,'Chroma.Input.Power()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fadd4fe0cc913f704600b97d1f5dd285de',1,'Chroma.Input.Power()']]],
-  ['premultiplied_16',['Premultiplied',['../namespaceChroma_1_1Graphics.html#adbd7dad333d230f7c268e8344dfd5e72a39a960b9c0fdfe58f8963d9ee2399459',1,'Chroma::Graphics']]],
-  ['printscreen_17',['PrintScreen',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5abf54024481cd2ad6bbb9ae44b7312472',1,'Chroma.Input.PrintScreen()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fabf54024481cd2ad6bbb9ae44b7312472',1,'Chroma.Input.PrintScreen()']]],
-  ['prior_18',['Prior',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5ae3d5e88745fd884d551c7f25237a5b5e',1,'Chroma.Input.Prior()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fae3d5e88745fd884d551c7f25237a5b5e',1,'Chroma.Input.Prior()']]],
-  ['projection_19',['Projection',['../namespaceChroma_1_1Graphics.html#abb6944b71490d6b8d3acc75eb5deb9eba2121e8333850befac5412d69d52306f7',1,'Chroma::Graphics']]]
+  ['portrait_14',['Portrait',['../namespaceChroma_1_1Graphics.html#a4a6c68c2f856dd9d1021404fcb5614bca1c7444be9626d149ab598fb79b639f96',1,'Chroma::Graphics']]],
+  ['portraitinverted_15',['PortraitInverted',['../namespaceChroma_1_1Graphics.html#a4a6c68c2f856dd9d1021404fcb5614bca0c3816e5570df621927f05c674c8be72',1,'Chroma::Graphics']]],
+  ['position_16',['Position',['../namespaceChroma_1_1Graphics.html#af52a0116d44c9cec77b6b4237899c429a52f5e0bc3859bc5f5e25130b6c7e8881',1,'Chroma::Graphics']]],
+  ['power_17',['Power',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5add4fe0cc913f704600b97d1f5dd285de',1,'Chroma.Input.Power()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fadd4fe0cc913f704600b97d1f5dd285de',1,'Chroma.Input.Power()']]],
+  ['premultiplied_18',['Premultiplied',['../namespaceChroma_1_1Graphics.html#adbd7dad333d230f7c268e8344dfd5e72a39a960b9c0fdfe58f8963d9ee2399459',1,'Chroma::Graphics']]],
+  ['printscreen_19',['PrintScreen',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5abf54024481cd2ad6bbb9ae44b7312472',1,'Chroma.Input.PrintScreen()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fabf54024481cd2ad6bbb9ae44b7312472',1,'Chroma.Input.PrintScreen()']]],
+  ['prior_20',['Prior',['../namespaceChroma_1_1Input.html#a957615802d9c112a9f478a582983b3a5ae3d5e88745fd884d551c7f25237a5b5e',1,'Chroma.Input.Prior()'],['../namespaceChroma_1_1Input.html#afd981650a6429b56553054eb762d931fae3d5e88745fd884d551c7f25237a5b5e',1,'Chroma.Input.Prior()']]],
+  ['projection_21',['Projection',['../namespaceChroma_1_1Graphics.html#abb6944b71490d6b8d3acc75eb5deb9eba2121e8333850befac5412d69d52306f7',1,'Chroma::Graphics']]],
+  ['pulse_22',['Pulse',['../namespaceChroma_1_1Input_1_1GameControllers_1_1Drivers_1_1Sony_1_1DualSense.html#a8946958da2c79c8192d342cd62f0e7c1aec8374db32bacb4cd9760199ec42819e',1,'Chroma::Input::GameControllers::Drivers::Sony::DualSense']]]
 ];

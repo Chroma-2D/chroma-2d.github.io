@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['measure_0',['Measure',['../classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#a487ac96013daf40fe7aee55856aa72b7',1,'Chroma.Graphics.TextRendering.Bitmap.BitmapFont.Measure()'],['../interfaceChroma_1_1Graphics_1_1TextRendering_1_1IFontProvider.html#a6218f82aecb41c1f49b0eb351a4abfcb',1,'Chroma.Graphics.TextRendering.IFontProvider.Measure()'],['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a5baa97f023a8b2561bf0728c8a609e27',1,'Chroma.Graphics.TextRendering.TrueType.TrueTypeFont.Measure()']]],
+  ['measure_0',['Measure',['../classChroma_1_1Graphics_1_1TextRendering_1_1Bitmap_1_1BitmapFont.html#abb96b913e5f7803cf3f0b92e7f70dcdf',1,'Chroma.Graphics.TextRendering.Bitmap.BitmapFont.Measure()'],['../interfaceChroma_1_1Graphics_1_1TextRendering_1_1IFontProvider.html#a2ceafcd1e0bab9bc54fbb2db7aac1573',1,'Chroma.Graphics.TextRendering.IFontProvider.Measure()'],['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1TrueTypeFont.html#a5baa97f023a8b2561bf0728c8a609e27',1,'Chroma.Graphics.TextRendering.TrueType.TrueTypeFont.Measure()']]],
   ['messagebox_1',['MessageBox',['../classChroma_1_1Windowing_1_1MessageBox.html#a6e1309f82bbacab444c8e747c841b661',1,'Chroma::Windowing::MessageBox']]],
   ['mousemoved_2',['MouseMoved',['../classChroma_1_1Game.html#a4b253bdee1edad914dfc039ffc72d15a',1,'Chroma::Game']]],
   ['mousepressed_3',['MousePressed',['../classChroma_1_1Game.html#a8cac5814e9c0983519691d056e45edff',1,'Chroma::Game']]],

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['white_0',['White',['../structChroma_1_1Graphics_1_1Color.html#a872aeab0a1addfecc93a63a413005f19',1,'Chroma::Graphics::Color']]],
-  ['whitesmoke_1',['WhiteSmoke',['../structChroma_1_1Graphics_1_1Color.html#a90902ccecf53d2471957a924aa055960',1,'Chroma::Graphics::Color']]]
+  ['unifiedcanadianaboriginalsyllabics_0',['UnifiedCanadianAboriginalSyllabics',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#aeee008319229f70e48301ca648a509ed',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]]
 ];

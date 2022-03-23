@@ -1,23 +1,11 @@
 var searchData=
 [
-  ['lavender_0',['Lavender',['../structChroma_1_1Graphics_1_1Color.html#a37a271b253e81ae9db42a6b45e24f955',1,'Chroma::Graphics::Color']]],
-  ['lavenderblush_1',['LavenderBlush',['../structChroma_1_1Graphics_1_1Color.html#a8ff9903b2c62d6086cf310d6f7735176',1,'Chroma::Graphics::Color']]],
-  ['lawngreen_2',['LawnGreen',['../structChroma_1_1Graphics_1_1Color.html#a7b532648a16a023618f8fec92bcf4725',1,'Chroma::Graphics::Color']]],
-  ['lemonchiffon_3',['LemonChiffon',['../structChroma_1_1Graphics_1_1Color.html#aaca639cbd9e6e44c04ab23782ce69a58',1,'Chroma::Graphics::Color']]],
-  ['lightblue_4',['LightBlue',['../structChroma_1_1Graphics_1_1Color.html#af922afddaf9e4f80b741258763c6ddcf',1,'Chroma::Graphics::Color']]],
-  ['lightcoral_5',['LightCoral',['../structChroma_1_1Graphics_1_1Color.html#a052e30cee294b6b33eafd188ba92f152',1,'Chroma::Graphics::Color']]],
-  ['lightcyan_6',['LightCyan',['../structChroma_1_1Graphics_1_1Color.html#a39a1c96d788dee0e16bde37bf2d122bf',1,'Chroma::Graphics::Color']]],
-  ['lightgoldenrodyellow_7',['LightGoldenrodYellow',['../structChroma_1_1Graphics_1_1Color.html#aa54903b03e9a1919a344819ff0a0c90f',1,'Chroma::Graphics::Color']]],
-  ['lightgray_8',['LightGray',['../structChroma_1_1Graphics_1_1Color.html#a6f9c32f4d19ad2890abf4c484125570a',1,'Chroma::Graphics::Color']]],
-  ['lightgreen_9',['LightGreen',['../structChroma_1_1Graphics_1_1Color.html#a4ed8b5458972e7bdbb0a69e3d31f18b5',1,'Chroma::Graphics::Color']]],
-  ['lightpink_10',['LightPink',['../structChroma_1_1Graphics_1_1Color.html#a897cd21a29384dc4676fd1568f7e9afb',1,'Chroma::Graphics::Color']]],
-  ['lightsalmon_11',['LightSalmon',['../structChroma_1_1Graphics_1_1Color.html#ae36c452d02a81adc047c0c23028325db',1,'Chroma::Graphics::Color']]],
-  ['lightseagreen_12',['LightSeaGreen',['../structChroma_1_1Graphics_1_1Color.html#ac84abbc1e82f5736a97eaa9c04ae66aa',1,'Chroma::Graphics::Color']]],
-  ['lightskyblue_13',['LightSkyBlue',['../structChroma_1_1Graphics_1_1Color.html#aff66f5a4b5c8b316eee9129d36191f36',1,'Chroma::Graphics::Color']]],
-  ['lightslategray_14',['LightSlateGray',['../structChroma_1_1Graphics_1_1Color.html#a4bad54a8297b36df4b7735d842676502',1,'Chroma::Graphics::Color']]],
-  ['lightsteelblue_15',['LightSteelBlue',['../structChroma_1_1Graphics_1_1Color.html#a20d6b1464ae985c943dad5a0e03dcee8',1,'Chroma::Graphics::Color']]],
-  ['lightyellow_16',['LightYellow',['../structChroma_1_1Graphics_1_1Color.html#a4ca19295316a0cb31e466237b7762f5d',1,'Chroma::Graphics::Color']]],
-  ['lime_17',['Lime',['../structChroma_1_1Graphics_1_1Color.html#aeba95f9a22b312a4dacf4c8ecd9dd60b',1,'Chroma::Graphics::Color']]],
-  ['limegreen_18',['LimeGreen',['../structChroma_1_1Graphics_1_1Color.html#ad65023eb84a2a0d1c9f04ce220d436e2',1,'Chroma::Graphics::Color']]],
-  ['linen_19',['Linen',['../structChroma_1_1Graphics_1_1Color.html#ad258fa4a1b2d4589e0bdd3cef47930f4',1,'Chroma::Graphics::Color']]]
+  ['kanbun_0',['Kanbun',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a65a463b87fd28d1985a4b35529da0a79',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['kangxiradicals_1',['KangxiRadicals',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a77bb4d1114d224fd46609b935c3e0340',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['kannada_2',['Kannada',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#ab1c17dd29d2d1c9ffb007ce980634913',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['katakana_3',['Katakana',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a91e11629af0dfef724b88f56a26debd5',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['katakanaphoneticextensions_4',['KatakanaPhoneticExtensions',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a3a200a46959502316f741b8144040092',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['khaki_5',['Khaki',['../structChroma_1_1Graphics_1_1Color.html#aad44a16238b570b076d30194f3db7475',1,'Chroma::Graphics::Color']]],
+  ['khmer_6',['Khmer',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#aa1ab2198ed2b50700eb904cfb9f58592',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]],
+  ['khmersymbols_7',['KhmerSymbols',['../classChroma_1_1Graphics_1_1TextRendering_1_1TrueType_1_1UnicodeCharacterRanges.html#a53c8ca3fe530d2391d68111418a64119',1,'Chroma::Graphics::TextRendering::TrueType::UnicodeCharacterRanges']]]
 ];
