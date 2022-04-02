@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Audio/ChannelMode.cs","ChannelMode.cs");NDSummary.OnSummaryLoaded("File:Audio/ChannelMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1238,0,1,"Types","Chroma.Audio.Types"],[1239,0,0,"ChannelMode","Chroma.Audio.ChannelMode"]]);

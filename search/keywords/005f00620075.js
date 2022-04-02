@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_bu",["Variable"],[["_buttonStates",,[["Chroma.Input.GameControllers.ControllerDriver",,,,0,"File:Input/GameControllers/ControllerDriver.cs:Chroma.Input.GameControllers.ControllerDriver._buttonStates","CSharpClass:Chroma.Input.GameControllers.ControllerDriver:_buttonStates"]]]]);

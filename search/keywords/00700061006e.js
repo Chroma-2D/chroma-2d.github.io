@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pan",["Property"],[["Panning",,[["Chroma.Audio.Sources.AudioSource",,,,0,"File:Audio/Sources/AudioSource.cs:Chroma.Audio.Sources.AudioSource.Panning","CSharpClass:Chroma.Audio.Sources.AudioSource:Panning"]]]]);

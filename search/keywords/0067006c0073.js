@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gls",["Property"],[["GlslErrors",,[["Chroma.Graphics.Accelerated.ShaderException",,,,0,"File:Graphics/Accelerated/ShaderException.cs:Chroma.Graphics.Accelerated.ShaderException.GlslErrors","CSharpClass:Chroma.Graphics.Accelerated.ShaderException:GlslErrors"]]]]);

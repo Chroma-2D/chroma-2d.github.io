@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fuc",["Variable"],[["Fuchsia",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Fuchsia","CSharpClass:Chroma.Graphics.Color:Fuchsia"]]]]);

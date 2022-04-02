@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("che",["Variable"],[["Cherokee",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Cherokee","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Cherokee"]]]]);

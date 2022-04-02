@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gur",["Variable"],[["Gurmukhi",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Gurmukhi","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Gurmukhi"]]]]);

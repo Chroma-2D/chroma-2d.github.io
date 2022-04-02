@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/VerticalSyncMode.cs","VerticalSyncMode.cs");NDSummary.OnSummaryLoaded("File:Graphics/VerticalSyncMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[995,0,1,"Types","Chroma.Graphics.Types"],[996,0,0,"VerticalSyncMode","Chroma.Graphics.VerticalSyncMode"]]);

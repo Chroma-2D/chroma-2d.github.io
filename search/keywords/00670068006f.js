@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gho",["Variable"],[["GhostWhite",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.GhostWhite","CSharpClass:Chroma.Graphics.Color:GhostWhite"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("inb",["Property"],[["InBuffer",,[["Chroma.Audio.Sources.AudioSource",,,,0,"File:Audio/Sources/AudioSource.cs:Chroma.Audio.Sources.AudioSource.InBuffer","CSharpClass:Chroma.Audio.Sources.AudioSource:InBuffer"]]]]);

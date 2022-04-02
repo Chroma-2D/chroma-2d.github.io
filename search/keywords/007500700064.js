@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("upd",["Function"],[["Update",,[["Chroma.Game",,,,0,"File:Game.cs:Chroma.Game.Update","CSharpClass:Chroma.Game:Update"],["Chroma.Graphics.Particles.ParticleEmitter",,,,0,"File:Graphics/Particles/ParticleEmitter.cs:Chroma.Graphics.Particles.ParticleEmitter.Update","CSharpClass:Chroma.Graphics.Particles.ParticleEmitter:Update"]]]]);

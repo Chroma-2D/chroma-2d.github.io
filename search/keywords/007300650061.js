@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sea",["Variable"],[["SeaGreen",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SeaGreen","CSharpClass:Chroma.Graphics.Color:SeaGreen"]]],["SeaShell",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SeaShell","CSharpClass:Chroma.Graphics.Color:SeaShell"]]]]);

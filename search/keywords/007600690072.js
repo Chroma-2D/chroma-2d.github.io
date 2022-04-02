@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vir",["Property"],[["VirtualResolution",,[["Chroma.Graphics.Texture",,,,0,"File:Graphics/Texture.cs:Chroma.Graphics.Texture.VirtualResolution","CSharpClass:Chroma.Graphics.Texture:VirtualResolution"]]]]);

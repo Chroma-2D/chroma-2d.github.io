@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gui",["Property"],[["Guid",,[["Chroma.Input.GameControllers.ControllerInfo",,,,0,"File:Input/GameControllers/ControllerInfo.cs:Chroma.Input.GameControllers.ControllerInfo.Guid","CSharpClass:Chroma.Input.GameControllers.ControllerInfo:Guid"]]]]);

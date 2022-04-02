@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nav",["Variable"],[["NavajoWhite",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.NavajoWhite","CSharpClass:Chroma.Graphics.Color:NavajoWhite"]]],["Navy",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Navy","CSharpClass:Chroma.Graphics.Color:Navy"]]]]);

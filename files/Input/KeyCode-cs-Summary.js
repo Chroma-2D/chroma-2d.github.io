@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Input/KeyCode.cs","KeyCode.cs");NDSummary.OnSummaryLoaded("File:Input/KeyCode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[253,0,1,"Types","Chroma.Input.Types"],[254,0,0,"KeyCode","Chroma.Input.KeyCode"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pin",["Variable"],[["Pink",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Pink","CSharpClass:Chroma.Graphics.Color:Pink"]]]]);

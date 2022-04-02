@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/VerticalSyncMode.cs",{996:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype996\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> VerticalSyncMode</div></div></div>"});

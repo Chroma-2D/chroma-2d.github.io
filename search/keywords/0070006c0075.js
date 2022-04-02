@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("plu",["Variable"],[["Plum",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Plum","CSharpClass:Chroma.Graphics.Color:Plum"]]]]);

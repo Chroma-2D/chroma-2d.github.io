@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/ShapeMode.cs",{1090:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1090\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> ShapeMode</div></div></div>"});

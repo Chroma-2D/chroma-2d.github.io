@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spr",["Variable"],[["SpringGreen",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SpringGreen","CSharpClass:Chroma.Graphics.Color:SpringGreen"]]]]);

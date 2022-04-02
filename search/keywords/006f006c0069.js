@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("oli",["Variable"],[["Olive",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Olive","CSharpClass:Chroma.Graphics.Color:Olive"]]],["OliveDrab",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.OliveDrab","CSharpClass:Chroma.Graphics.Color:OliveDrab"]]]]);

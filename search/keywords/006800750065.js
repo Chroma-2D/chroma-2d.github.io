@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hue",["Property"],[["Hue",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Hue","CSharpClass:Chroma.Graphics.Color:Hue"]]]]);

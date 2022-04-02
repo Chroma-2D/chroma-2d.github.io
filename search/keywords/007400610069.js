@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tai",["Variable"],[["TaiLe",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.TaiLe","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:TaiLe"]]]]);

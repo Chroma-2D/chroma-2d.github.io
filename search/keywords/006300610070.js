@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cap",["Function","Enumeration"],[["Capture",,[["Chroma.Input.Mouse",,,,0,"File:Input/Mouse.cs:Chroma.Input.Mouse.Capture","CSharpClass:Chroma.Input.Mouse:Capture"]]],["CaptureStatus",,[["Chroma.Audio",,,,1,"File:Audio/CaptureStatus.cs:Chroma.Audio.CaptureStatus"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gle",["Property"],[["GlExtensions",,[["Chroma.Graphics.GraphicsManager",,,,0,"File:Graphics/GraphicsManager.cs:Chroma.Graphics.GraphicsManager.GlExtensions","CSharpClass:Chroma.Graphics.GraphicsManager:GlExtensions"]]]]);

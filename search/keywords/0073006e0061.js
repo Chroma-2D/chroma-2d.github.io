@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sna",["Property"],[["SnappingMode",,[["Chroma.Graphics.Texture",,,,0,"File:Graphics/Texture.cs:Chroma.Graphics.Texture.SnappingMode","CSharpClass:Chroma.Graphics.Texture:SnappingMode"]]]]);

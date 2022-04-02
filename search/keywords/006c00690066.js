@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lif",["Property"],[["LifetimeFrames",,[["Chroma.Diagnostics.PerformanceCounter",,,,0,"File:Diagnostics/PerformanceCounter.cs:Chroma.Diagnostics.PerformanceCounter.LifetimeFrames","CSharpClass:Chroma.Diagnostics.PerformanceCounter:LifetimeFrames"]]]]);

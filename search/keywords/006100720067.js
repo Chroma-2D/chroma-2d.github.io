@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("arg",["Property"],[["ARGB",,[["Chroma.Graphics.Color.PackedValue",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.PackedValue.ARGB","CSharpClass:Chroma.Graphics.Color.PackedValue:ARGB"]]]]);

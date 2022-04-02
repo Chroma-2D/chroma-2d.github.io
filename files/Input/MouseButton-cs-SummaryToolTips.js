@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Input/MouseButton.cs",{328:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype328\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> MouseButton : <span class=\"SHKeyword\">uint</span></div></div></div>"});

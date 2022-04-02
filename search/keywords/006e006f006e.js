@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("non",["Variable"],[["None",,[["Chroma.Graphics.DisplayDpi",,,,0,"File:Graphics/DisplayDpi.cs:Chroma.Graphics.DisplayDpi.None","CSharpClass:Chroma.Graphics.DisplayDpi:None"]]]]);

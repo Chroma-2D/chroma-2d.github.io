@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cla",["Class"],[["ClassNameDecorator",,[["Chroma.Diagnostics.Logging.Decorators",,,,0,"File:Diagnostics/Logging/Decorators/ClassNameDecorator.cs:Chroma.Diagnostics.Logging.Decorators.ClassNameDecorator","CSharpClass:Chroma.Diagnostics.Logging.Decorators.ClassNameDecorator"]]]]);

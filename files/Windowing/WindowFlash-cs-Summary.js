@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Windowing/WindowFlash.cs","WindowFlash.cs");NDSummary.OnSummaryLoaded("File:Windowing/WindowFlash.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[73,0,1,"Types","Chroma.Windowing.Types"],[74,0,0,"WindowFlash","Chroma.Windowing.WindowFlash"]]);

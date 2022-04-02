@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/DisplayOrientation.cs",{994:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype994\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> DisplayOrientation</div></div></div>"});

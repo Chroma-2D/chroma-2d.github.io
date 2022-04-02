@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dat",["Class"],[["DateTimeDecorator",,[["Chroma.Diagnostics.Logging.Decorators",,,,0,"File:Diagnostics/Logging/Decorators/DateTimeDecorator.cs:Chroma.Diagnostics.Logging.Decorators.DateTimeDecorator","CSharpClass:Chroma.Diagnostics.Logging.Decorators.DateTimeDecorator"]]]]);

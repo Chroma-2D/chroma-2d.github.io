@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dpi",["Property"],[["DPI",,[["Chroma.Graphics.Display",,,,0,"File:Graphics/Display.cs:Chroma.Graphics.Display.DPI","CSharpClass:Chroma.Graphics.Display:DPI"]]]]);

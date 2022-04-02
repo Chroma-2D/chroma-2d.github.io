@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_de",["Variable"],[["_deadZones",,[["Chroma.Input.GameControllers.ControllerDriver",,,,0,"File:Input/GameControllers/ControllerDriver.cs:Chroma.Input.GameControllers.ControllerDriver._deadZones","CSharpClass:Chroma.Input.GameControllers.ControllerDriver:_deadZones"]]]]);

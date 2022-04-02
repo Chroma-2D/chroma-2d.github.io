@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fad",["Function"],[["FadeOut",,[["Chroma.Graphics.Particles.BuiltInParticleStateIntegrators",,,,0,"File:Graphics/Particles/BuiltInParticleStateIntegrators.cs:Chroma.Graphics.Particles.BuiltInParticleStateIntegrators.FadeOut","CSharpClass:Chroma.Graphics.Particles.BuiltInParticleStateIntegrators:FadeOut"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("scr",["Property"],[["ScreenSpacePosition",,[["Chroma.Input.Mouse",,,,0,"File:Input/Mouse.cs:Chroma.Input.Mouse.ScreenSpacePosition","CSharpClass:Chroma.Input.Mouse:ScreenSpacePosition"]]]]);

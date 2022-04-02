@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/TextureFilteringMode.cs","TextureFilteringMode.cs");NDSummary.OnSummaryLoaded("File:Graphics/TextureFilteringMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1051,0,1,"Types","Chroma.Graphics.Types"],[1052,0,0,"TextureFilteringMode","Chroma.Graphics.TextureFilteringMode"]]);

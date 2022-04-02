@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/BlendingEquation.cs","BlendingEquation.cs");NDSummary.OnSummaryLoaded("File:Graphics/BlendingEquation.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[670,0,1,"Types","Chroma.Graphics.Types"],[671,0,0,"BlendingEquation","Chroma.Graphics.BlendingEquation"]]);

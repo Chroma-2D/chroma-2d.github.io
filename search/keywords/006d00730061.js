@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("msa",["Property"],[["MsaaSamples",,[["Chroma.GameStartupOptions",,,,0,"File:GameStartupOptions.cs:Chroma.GameStartupOptions.MsaaSamples","CSharpClass:Chroma.GameStartupOptions:MsaaSamples"]]]]);

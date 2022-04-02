@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ito",["Interface"],[["ITouchEnabled",,[["Chroma.Input.GameControllers.Drivers.Capabilities",,,,0,"File:Input/GameControllers/Drivers/Capabilities/ITouchEnabled.cs:Chroma.Input.GameControllers.Drivers.Capabilities.ITouchEnabled","CSharpClass:Chroma.Input.GameControllers.Drivers.Capabilities.ITouchEnabled"]]]]);

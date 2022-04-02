@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/TextureFilteringMode.cs",{1052:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1052\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> TextureFilteringMode</div></div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("add",["Function"],[["AddMapping",,[["Chroma.Input.Controller",,,,0,"File:Input/Controller.cs:Chroma.Input.Controller.AddMapping","CSharpClass:Chroma.Input.Controller:AddMapping"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("qui",["Function","Event"],[["Quit",,[["Chroma.Game",,,,0,"File:Game.cs:Chroma.Game.Quit","CSharpClass:Chroma.Game:Quit"]]],["QuitRequested",,[["Chroma.Windowing.Window",,,,1,"File:Windowing/Window.cs:Chroma.Windowing.Window.QuitRequested","CSharpClass:Chroma.Windowing.Window:QuitRequested"]]]]);

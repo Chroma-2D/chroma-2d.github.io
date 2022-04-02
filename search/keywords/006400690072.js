@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dir",["Property"],[["DirectionFlipped",,[["Chroma.Input.MouseWheelEventArgs",,,,0,"File:Input/MouseWheelEventArgs.cs:Chroma.Input.MouseWheelEventArgs.DirectionFlipped","CSharpClass:Chroma.Input.MouseWheelEventArgs:DirectionFlipped"]]]]);

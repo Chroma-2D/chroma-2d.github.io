@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("unf",["Event"],[["Unfocused",,[["Chroma.Windowing.Window",,,,0,"File:Windowing/Window.cs:Chroma.Windowing.Window.Unfocused","CSharpClass:Chroma.Windowing.Window:Unfocused"]]]]);

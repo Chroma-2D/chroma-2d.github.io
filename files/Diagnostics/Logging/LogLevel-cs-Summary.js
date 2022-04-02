@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Diagnostics/Logging/LogLevel.cs","LogLevel.cs");NDSummary.OnSummaryLoaded("File:Diagnostics/Logging/LogLevel.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1326,0,1,"Types","Chroma.Diagnostics.Logging.Types"],[1327,0,0,"LogLevel","Chroma.Diagnostics.Logging.LogLevel"]]);

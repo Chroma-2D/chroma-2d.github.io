@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isd",["Property"],[["IsDefaultActive",,[["Chroma.Graphics.Accelerated.Shader",,,,0,"File:Graphics/Accelerated/Shader.cs:Chroma.Graphics.Accelerated.Shader.IsDefaultActive","CSharpClass:Chroma.Graphics.Accelerated.Shader:IsDefaultActive"]]]]);

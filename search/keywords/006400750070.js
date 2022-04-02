@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dup",["Class"],[["DuplicateSinkException",,[["Chroma.Diagnostics.Logging",,,,0,"File:Diagnostics/Logging/DuplicateSinkException.cs:Chroma.Diagnostics.Logging.DuplicateSinkException","CSharpClass:Chroma.Diagnostics.Logging.DuplicateSinkException"]]]]);

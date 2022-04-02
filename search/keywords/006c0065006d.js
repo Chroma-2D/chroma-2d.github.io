@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lem",["Variable"],[["LemonChiffon",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.LemonChiffon","CSharpClass:Chroma.Graphics.Color:LemonChiffon"]]]]);

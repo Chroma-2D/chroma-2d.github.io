@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sen",["Function"],[["SendEffect",,[["Chroma.Input.GameControllers.ControllerDriver",,,,0,"File:Input/GameControllers/ControllerDriver.cs:Chroma.Input.GameControllers.ControllerDriver.SendEffect","CSharpClass:Chroma.Input.GameControllers.ControllerDriver:SendEffect"]]]]);

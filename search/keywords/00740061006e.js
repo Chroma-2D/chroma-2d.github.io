@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tan",["Variable"],[["Tan",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Tan","CSharpClass:Chroma.Graphics.Color:Tan"]]]]);

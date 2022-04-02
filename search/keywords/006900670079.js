@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("igy",["Interface"],[["IGyroscopeEnabled",,[["Chroma.Input.GameControllers.Drivers.Capabilities",,,,0,"File:Input/GameControllers/Drivers/Capabilities/IGyroscopeEnabled.cs:Chroma.Input.GameControllers.Drivers.Capabilities.IGyroscopeEnabled","CSharpClass:Chroma.Input.GameControllers.Drivers.Capabilities.IGyroscopeEnabled"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Audio/CaptureStatus.cs",{1233:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1233\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> CaptureStatus</div></div></div>"});

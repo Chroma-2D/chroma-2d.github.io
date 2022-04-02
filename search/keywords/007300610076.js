@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sav",["Function"],[["Save",,[["Chroma.Graphics.Texture",,,,0,"File:Graphics/Texture.cs:Chroma.Graphics.Texture.Save","CSharpClass:Chroma.Graphics.Texture:Save"]]],["SaveScreenshot",,[["Chroma.Windowing.Window",,,,0,"File:Windowing/Window.cs:Chroma.Windowing.Window.SaveScreenshot","CSharpClass:Chroma.Windowing.Window:SaveScreenshot"]]]]);

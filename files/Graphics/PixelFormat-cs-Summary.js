@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/PixelFormat.cs","PixelFormat.cs");NDSummary.OnSummaryLoaded("File:Graphics/PixelFormat.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[997,0,1,"Types","Chroma.Graphics.Types"],[998,0,0,"PixelFormat","Chroma.Graphics.PixelFormat"]]);

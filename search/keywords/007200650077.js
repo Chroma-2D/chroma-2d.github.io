@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rew",["Function"],[["Rewind",,[["Chroma.Audio.Sources.FileBasedAudioSource",,,,0,"File:Audio/Sources/FileBasedAudioSource.cs:Chroma.Audio.Sources.FileBasedAudioSource.Rewind","CSharpClass:Chroma.Audio.Sources.FileBasedAudioSource:Rewind"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Hardware/BatteryStatus.cs",{1099:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1099\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> BatteryStatus</div></div></div>"});

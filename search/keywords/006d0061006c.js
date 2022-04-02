@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mal",["Variable"],[["Malayalam",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Malayalam","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Malayalam"]]]]);

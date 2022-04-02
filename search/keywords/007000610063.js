@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pac",["Variable","Class"],[["Packed",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Packed","CSharpClass:Chroma.Graphics.Color:Packed"]]],["PackedValue",,[["Chroma.Graphics.Color",,,,1,"File:Graphics/Color.cs:Chroma.Graphics.Color.PackedValue","CSharpClass:Chroma.Graphics.Color.PackedValue"]]]]);

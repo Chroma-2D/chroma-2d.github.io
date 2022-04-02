@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wav",["Class"],[["Waveform",,[["Chroma.Audio.Sources",,,,0,"File:Audio/Sources/Waveform.cs:Chroma.Audio.Sources.Waveform","CSharpClass:Chroma.Audio.Sources.Waveform"]]]]);

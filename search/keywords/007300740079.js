@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sty",["Property"],[["StyleName",,[["Chroma.Graphics.TextRendering.TrueType.TrueTypeFont",,,,0,"File:Graphics/TextRendering/TrueType/TrueTypeFont.cs:Chroma.Graphics.TextRendering.TrueType.TrueTypeFont.StyleName","CSharpClass:Chroma.Graphics.TextRendering.TrueType.TrueTypeFont:StyleName"]]]]);

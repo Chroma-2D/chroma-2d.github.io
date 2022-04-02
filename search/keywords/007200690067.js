@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rig",["Property"],[["Right",,[["Chroma.Input.MouseButtonState",,,,0,"File:Input/MouseButtonState.cs:Chroma.Input.MouseButtonState.Right","CSharpClass:Chroma.Input.MouseButtonState:Right"]]]]);

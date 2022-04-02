@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ans",["Function"],[["AnsiColorEncodeRGB",,[["Chroma.Extensions",,,,0,"File:Extensions.String.cs:Chroma.Extensions.AnsiColorEncodeRGB","CSharpClass:Chroma.Extensions:AnsiColorEncodeRGB"]]]]);

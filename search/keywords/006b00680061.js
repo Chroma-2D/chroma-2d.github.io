@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("kha",["Variable"],[["Khaki",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Khaki","CSharpClass:Chroma.Graphics.Color:Khaki"]]]]);

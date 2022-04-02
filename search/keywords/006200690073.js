@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bis",["Variable"],[["Bisque",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Bisque","CSharpClass:Chroma.Graphics.Color:Bisque"]]]]);

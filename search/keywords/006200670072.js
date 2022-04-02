@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bgr",["Property"],[["BGRA",,[["Chroma.Graphics.Color.PackedValue",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.PackedValue.BGRA","CSharpClass:Chroma.Graphics.Color.PackedValue:BGRA"]]]]);

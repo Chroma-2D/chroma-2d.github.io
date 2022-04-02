@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fps",["Property"],[["FPS",,[["Chroma.Diagnostics.PerformanceCounter",,,,0,"File:Diagnostics/PerformanceCounter.cs:Chroma.Diagnostics.PerformanceCounter.FPS","CSharpClass:Chroma.Diagnostics.PerformanceCounter:FPS"]]]]);

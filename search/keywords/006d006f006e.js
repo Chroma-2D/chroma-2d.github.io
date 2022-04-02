@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mon",["Variable"],[["Mongolian",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Mongolian","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Mongolian"]]]]);

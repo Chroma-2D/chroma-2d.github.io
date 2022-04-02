@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sky",["Variable"],[["SkyBlue",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SkyBlue","CSharpClass:Chroma.Graphics.Color:SkyBlue"]]]]);

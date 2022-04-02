@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("inc",["Function"],[["Includes",,[["Chroma.Extensions",,,,0,"File:Extensions.Range.cs:Chroma.Extensions.Includes","CSharpClass:Chroma.Extensions:Includes"]]]]);

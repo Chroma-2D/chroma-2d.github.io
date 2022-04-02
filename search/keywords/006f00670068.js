@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ogh",["Variable"],[["Ogham",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Ogham","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Ogham"]]]]);

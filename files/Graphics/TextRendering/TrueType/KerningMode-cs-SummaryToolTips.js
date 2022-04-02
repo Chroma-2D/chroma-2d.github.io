@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/TextRendering/TrueType/KerningMode.cs",{381:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype381\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> KerningMode</div></div></div>"});

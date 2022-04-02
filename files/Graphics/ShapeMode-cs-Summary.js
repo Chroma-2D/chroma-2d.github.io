@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/ShapeMode.cs","ShapeMode.cs");NDSummary.OnSummaryLoaded("File:Graphics/ShapeMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1089,0,1,"Types","Chroma.Graphics.Types"],[1090,0,0,"ShapeMode","Chroma.Graphics.ShapeMode"]]);

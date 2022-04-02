@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Input/ScanCode.cs","ScanCode.cs");NDSummary.OnSummaryLoaded("File:Input/ScanCode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[325,0,1,"Types","Chroma.Input.Types"],[326,0,0,"ScanCode","Chroma.Input.ScanCode"]]);

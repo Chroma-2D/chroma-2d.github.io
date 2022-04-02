@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("guj",["Variable"],[["Gujarati",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Gujarati","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Gujarati"]]]]);

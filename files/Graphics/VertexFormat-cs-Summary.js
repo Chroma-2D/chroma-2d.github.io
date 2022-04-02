@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/VertexFormat.cs","VertexFormat.cs");NDSummary.OnSummaryLoaded("File:Graphics/VertexFormat.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[744,0,1,"Types","Chroma.Graphics.Types"],[745,0,0,"VertexFormat","Chroma.Graphics.VertexFormat"]]);

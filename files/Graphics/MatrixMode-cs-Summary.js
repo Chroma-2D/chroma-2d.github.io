@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/MatrixMode.cs","MatrixMode.cs");NDSummary.OnSummaryLoaded("File:Graphics/MatrixMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[740,0,1,"Types","Chroma.Graphics.Types"],[741,0,0,"MatrixMode","Chroma.Graphics.MatrixMode"]]);

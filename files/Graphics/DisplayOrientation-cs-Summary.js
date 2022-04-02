@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/DisplayOrientation.cs","DisplayOrientation.cs");NDSummary.OnSummaryLoaded("File:Graphics/DisplayOrientation.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[993,0,1,"Types","Chroma.Graphics.Types"],[994,0,0,"DisplayOrientation","Chroma.Graphics.DisplayOrientation"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nin",["Class"],[["NintendoControllerDriver",,[["Chroma.Input.GameControllers.Drivers.Nintendo",,,,0,"File:Input/GameControllers/Drivers/Nintendo/NintendoControllerDriver.cs:Chroma.Input.GameControllers.Drivers.Nintendo.NintendoControllerDriver","CSharpClass:Chroma.Input.GameControllers.Drivers.Nintendo.NintendoControllerDriver"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ort",["Function"],[["Orthographic",,[["Chroma.Graphics.RenderTransform",,,,0,"File:Graphics/RenderTransform.cs:Chroma.Graphics.RenderTransform.Orthographic","CSharpClass:Chroma.Graphics.RenderTransform:Orthographic"]]]]);

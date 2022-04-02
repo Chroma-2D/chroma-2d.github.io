@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Audio/CaptureStatus.cs","CaptureStatus.cs");NDSummary.OnSummaryLoaded("File:Audio/CaptureStatus.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1232,0,1,"Types","Chroma.Audio.Types"],[1233,0,0,"CaptureStatus","Chroma.Audio.CaptureStatus"]]);

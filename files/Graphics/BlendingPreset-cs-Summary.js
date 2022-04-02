@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/BlendingPreset.cs","BlendingPreset.cs");NDSummary.OnSummaryLoaded("File:Graphics/BlendingPreset.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1107,0,1,"Types","Chroma.Graphics.Types"],[1108,0,0,"BlendingPreset","Chroma.Graphics.BlendingPreset"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("azu",["Variable"],[["Azure",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Azure","CSharpClass:Chroma.Graphics.Color:Azure"]]]]);

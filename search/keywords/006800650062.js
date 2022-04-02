@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("heb",["Variable"],[["Hebrew",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Hebrew","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Hebrew"]]]]);

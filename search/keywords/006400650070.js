@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dep",["Property"],[["DepthTestingEnabled",,[["Chroma.Graphics.RenderSettings",,,,0,"File:Graphics/RenderSettings.cs:Chroma.Graphics.RenderSettings.DepthTestingEnabled","CSharpClass:Chroma.Graphics.RenderSettings:DepthTestingEnabled"]]]]);

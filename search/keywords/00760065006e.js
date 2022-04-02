@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ven",["Property"],[["VendorId",,[["Chroma.Hardware.ProductInfo",,,,0,"File:Hardware/ProductInfo.cs:Chroma.Hardware.ProductInfo.VendorId","CSharpClass:Chroma.Hardware.ProductInfo:VendorId"]]]]);

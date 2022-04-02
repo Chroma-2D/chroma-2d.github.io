@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_lo",["Variable"],[["_log",,[["Chroma.Input.GameControllers.ControllerDriver",,,,0,"File:Input/GameControllers/ControllerDriver.cs:Chroma.Input.GameControllers.ControllerDriver._log","CSharpClass:Chroma.Input.GameControllers.ControllerDriver:_log"]]]]);

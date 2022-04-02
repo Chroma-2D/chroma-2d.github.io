@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/ImageFileFormat.cs","ImageFileFormat.cs");NDSummary.OnSummaryLoaded("File:Graphics/ImageFileFormat.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1109,0,1,"Types","Chroma.Graphics.Types"],[1110,0,0,"ImageFileFormat","Chroma.Graphics.ImageFileFormat"]]);

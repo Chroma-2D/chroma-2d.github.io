@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dee",["Variable"],[["DeepPink",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.DeepPink","CSharpClass:Chroma.Graphics.Color:DeepPink"]]],["DeepSkyBlue",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.DeepSkyBlue","CSharpClass:Chroma.Graphics.Color:DeepSkyBlue"]]]]);
