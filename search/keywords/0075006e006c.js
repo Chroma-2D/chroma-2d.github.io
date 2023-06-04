@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("unl",["Function"],[["Unload",,[["Chroma.ContentManagement.FileSystem.FileSystemContentProvider",,,,0,"File:ContentManagement/FileSystem/FileSystemContentProvider.cs:Chroma.ContentManagement.FileSystem.FileSystemContentProvider.Unload","CSharpClass:Chroma.ContentManagement.FileSystem.FileSystemContentProvider:Unload"]]]]);

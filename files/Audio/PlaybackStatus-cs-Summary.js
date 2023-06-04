@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Audio/PlaybackStatus.cs","PlaybackStatus.cs");NDSummary.OnSummaryLoaded("File:Audio/PlaybackStatus.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[51,0,1,"Types","Chroma.Audio.Types"],[52,0,0,"PlaybackStatus","Chroma.Audio.PlaybackStatus"]]);

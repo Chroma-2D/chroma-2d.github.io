@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sla",["Variable"],[["SlateBlue",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SlateBlue","CSharpClass:Chroma.Graphics.Color:SlateBlue"]]],["SlateGray",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SlateGray","CSharpClass:Chroma.Graphics.Color:SlateGray"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("num",["Variable"],[["NumberForms",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.NumberForms","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:NumberForms"]]]]);

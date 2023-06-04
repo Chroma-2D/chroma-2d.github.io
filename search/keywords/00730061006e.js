@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("san",["Variable"],[["SandyBrown",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.SandyBrown","CSharpClass:Chroma.Graphics.Color:SandyBrown"]]]]);

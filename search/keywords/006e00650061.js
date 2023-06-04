@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nea",["Property"],[["NearZ",,[["Chroma.Graphics.Camera",,,,0,"File:Graphics/Camera.cs:Chroma.Graphics.Camera.NearZ","CSharpClass:Chroma.Graphics.Camera:NearZ"]]]]);

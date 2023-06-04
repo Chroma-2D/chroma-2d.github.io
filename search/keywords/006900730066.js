@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isf",["Property"],[["IsFullScreen",,[["Chroma.Windowing.Window",,,,0,"File:Windowing/Window.cs:Chroma.Windowing.Window.IsFullScreen","CSharpClass:Chroma.Windowing.Window:IsFullScreen"]]]]);

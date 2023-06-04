@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dia",["Property"],[["Diagonal",,[["Chroma.Graphics.DisplayDpi",,,,0,"File:Graphics/DisplayDpi.cs:Chroma.Graphics.DisplayDpi.Diagonal","CSharpClass:Chroma.Graphics.DisplayDpi:Diagonal"]]]]);

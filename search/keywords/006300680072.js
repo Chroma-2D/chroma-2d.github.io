@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("chr",["Variable"],[["ChromaDefault",,[["Chroma.Audio.AudioFormat",,,,0,"File:Audio/AudioFormat.cs:Chroma.Audio.AudioFormat.ChromaDefault","CSharpClass:Chroma.Audio.AudioFormat:ChromaDefault"]]]]);

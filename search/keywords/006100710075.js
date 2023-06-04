@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("aqu",["Variable"],[["Aqua",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Aqua","CSharpClass:Chroma.Graphics.Color:Aqua"]]],["Aquamarine",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Aquamarine","CSharpClass:Chroma.Graphics.Color:Aquamarine"]]]]);

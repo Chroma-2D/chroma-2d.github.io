@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("y",["Property"],[["Y",,[["Chroma.Graphics.Camera",,,,0,"File:Graphics/Camera.cs:Chroma.Graphics.Camera.Y","CSharpClass:Chroma.Graphics.Camera:Y"]]]]);

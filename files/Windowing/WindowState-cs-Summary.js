@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Windowing/WindowState.cs","WindowState.cs");NDSummary.OnSummaryLoaded("File:Windowing/WindowState.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1292,0,1,"Types","Chroma.Windowing.Types"],[1293,0,0,"WindowState","Chroma.Windowing.WindowState"]]);

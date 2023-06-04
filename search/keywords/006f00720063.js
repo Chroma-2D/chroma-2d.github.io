@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("orc",["Variable"],[["Orchid",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Orchid","CSharpClass:Chroma.Graphics.Color:Orchid"]]]]);

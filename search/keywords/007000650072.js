@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("per",["Class","Variable"],[["PerformanceCounter",,[["Chroma.Diagnostics",,,,0,"File:Diagnostics/PerformanceCounter.cs:Chroma.Diagnostics.PerformanceCounter","CSharpClass:Chroma.Diagnostics.PerformanceCounter"]]],["Peru",,[["Chroma.Graphics.Color",,,,1,"File:Graphics/Color.cs:Chroma.Graphics.Color.Peru","CSharpClass:Chroma.Graphics.Color:Peru"]]]]);

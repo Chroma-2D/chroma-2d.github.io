@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Audio/SampleFormat.cs","SampleFormat.cs");NDSummary.OnSummaryLoaded("File:Audio/SampleFormat.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[65,0,1,"Types","Chroma.Audio.Types"],[66,0,0,"SampleFormat","Chroma.Audio.SampleFormat"]]);

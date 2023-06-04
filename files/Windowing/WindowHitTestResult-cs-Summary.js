@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Windowing/WindowHitTestResult.cs","WindowHitTestResult.cs");NDSummary.OnSummaryLoaded("File:Windowing/WindowHitTestResult.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1307,0,1,"Types","Chroma.Windowing.Types"],[1308,0,0,"WindowHitTestResult","Chroma.Windowing.WindowHitTestResult"]]);

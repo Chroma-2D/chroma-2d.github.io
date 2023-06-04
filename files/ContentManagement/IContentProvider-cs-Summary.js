@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:ContentManagement/IContentProvider.cs","IContentProvider.cs");NDSummary.OnSummaryLoaded("File:ContentManagement/IContentProvider.cs",[["C#","CSharp"]],[["Interfaces","Interface"]],[[170,0,0,"<span class=\"Qualifier\">Chroma.&#8203;ContentManagement.</span>&#8203;IContentProvider","Chroma.ContentManagement.IContentProvider"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dur",["Property"],[["Duration",,[["Chroma.Audio.Sources.FileBasedAudioSource",,,,0,"File:Audio/Sources/FileBasedAudioSource.cs:Chroma.Audio.Sources.FileBasedAudioSource.Duration","CSharpClass:Chroma.Audio.Sources.FileBasedAudioSource:Duration"]]]]);

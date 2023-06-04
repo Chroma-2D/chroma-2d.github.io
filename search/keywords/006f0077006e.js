@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("own",["Property"],[["Owner",,[["Chroma.Graphics.Particles.Particle",,,,0,"File:Graphics/Particles/Particle.cs:Chroma.Graphics.Particles.Particle.Owner","CSharpClass:Chroma.Graphics.Particles.Particle:Owner"]]]]);

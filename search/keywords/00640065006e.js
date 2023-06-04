@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("den",["Property"],[["Density",,[["Chroma.Graphics.Particles.ParticleEmitter",,,,0,"File:Graphics/Particles/ParticleEmitter.cs:Chroma.Graphics.Particles.ParticleEmitter.Density","CSharpClass:Chroma.Graphics.Particles.ParticleEmitter:Density"]]]]);

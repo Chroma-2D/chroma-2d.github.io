@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fet",["Function"],[["FetchDisplay",,[["Chroma.Graphics.GraphicsManager",,,,0,"File:Graphics/GraphicsManager.cs:Chroma.Graphics.GraphicsManager.FetchDisplay","CSharpClass:Chroma.Graphics.GraphicsManager:FetchDisplay"]]]]);

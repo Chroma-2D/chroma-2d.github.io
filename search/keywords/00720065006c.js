@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rel",["Function"],[["Release",,[["Chroma.Input.Mouse",,,,0,"File:Input/Mouse.cs:Chroma.Input.Mouse.Release","CSharpClass:Chroma.Input.Mouse:Release"]]]]);

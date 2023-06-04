@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("uns",["Class"],[["UnsupportedContentException",,[["Chroma.ContentManagement",,,,0,"File:ContentManagement/UnsupportedContentException.cs:Chroma.ContentManagement.UnsupportedContentException","CSharpClass:Chroma.ContentManagement.UnsupportedContentException"]]]]);

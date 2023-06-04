@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/TextureWrappingMode.cs",{572:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype572\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> TextureWrappingMode</div></div></div>"});

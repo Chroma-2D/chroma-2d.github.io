@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("see",["Function"],[["Seek",,[["Chroma.Audio.Sources.FileBasedAudioSource",,,,0,"File:Audio/Sources/FileBasedAudioSource.cs:Chroma.Audio.Sources.FileBasedAudioSource.Seek","CSharpClass:Chroma.Audio.Sources.FileBasedAudioSource:Seek"]]]]);

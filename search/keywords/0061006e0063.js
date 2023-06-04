@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("anc",["Property"],[["Anchor",,[["Chroma.Graphics.Texture",,,,0,"File:Graphics/Texture.cs:Chroma.Graphics.Texture.Anchor","CSharpClass:Chroma.Graphics.Texture:Anchor"]]]]);

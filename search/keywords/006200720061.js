@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bra",["Variable"],[["BraillePatterns",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.BraillePatterns","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:BraillePatterns"]]]]);

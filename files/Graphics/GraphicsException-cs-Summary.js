@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Graphics/GraphicsException.cs","GraphicsException.cs");NDSummary.OnSummaryLoaded("File:Graphics/GraphicsException.cs",[["C#","CSharp"]],[["Classes","Class"]],[[706,0,0,"<span class=\"Qualifier\">Chroma.&#8203;Graphics.</span>&#8203;GraphicsException","Chroma.Graphics.GraphicsException"]]);

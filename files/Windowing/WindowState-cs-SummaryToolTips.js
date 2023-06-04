@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Windowing/WindowState.cs",{1293:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1293\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> WindowState</div></div></div>"});

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Input/GameControllers/ControllerAxis.cs","ControllerAxis.cs");NDSummary.OnSummaryLoaded("File:Input/GameControllers/ControllerAxis.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1150,0,1,"Types","Chroma.Input.GameControllers.Types"],[1151,0,0,"ControllerAxis","Chroma.Input.GameControllers.ControllerAxis"]]);

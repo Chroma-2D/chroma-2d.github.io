@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Extensibility/HookAttachment.cs",{259:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype259\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> HookAttachment</div></div></div>"});

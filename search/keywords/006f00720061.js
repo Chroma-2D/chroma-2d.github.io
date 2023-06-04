@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ora",["Variable"],[["Orange",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Orange","CSharpClass:Chroma.Graphics.Color:Orange"]]],["OrangeRed",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.OrangeRed","CSharpClass:Chroma.Graphics.Color:OrangeRed"]]]]);

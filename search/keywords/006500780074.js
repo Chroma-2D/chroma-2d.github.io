@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ext",["Class"],[["Extensions",,[["Chroma",,,,0,"File:Extensions.Matrix.cs:Chroma.Extensions","CSharpClass:Chroma.Extensions"],["Chroma.Graphics",,,,0,"File:Graphics/Extensions.RenderContext.cs:Chroma.Graphics.Extensions","CSharpClass:Chroma.Graphics.Extensions"]]]]);

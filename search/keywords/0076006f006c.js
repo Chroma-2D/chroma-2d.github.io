@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vol",["Property"],[["Volume",,[["Chroma.Audio.Sources.AudioSource",,,,0,"File:Audio/Sources/AudioSource.cs:Chroma.Audio.Sources.AudioSource.Volume","CSharpClass:Chroma.Audio.Sources.AudioSource:Volume"]]]]);

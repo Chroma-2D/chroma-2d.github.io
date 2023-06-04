@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fra",["Class"],[["FrameworkException",,[["Chroma",,,,0,"File:FrameworkException.cs:Chroma.FrameworkException","CSharpClass:Chroma.FrameworkException"]]]]);

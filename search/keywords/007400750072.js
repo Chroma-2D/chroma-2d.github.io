@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tur",["Variable"],[["Turquoise",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Turquoise","CSharpClass:Chroma.Graphics.Color:Turquoise"]]]]);

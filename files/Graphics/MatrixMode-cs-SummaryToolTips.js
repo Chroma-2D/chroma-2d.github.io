@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/MatrixMode.cs",{701:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype701\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> MatrixMode</div></div></div>"});

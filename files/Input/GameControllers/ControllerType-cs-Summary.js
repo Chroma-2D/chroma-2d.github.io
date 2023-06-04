@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Input/GameControllers/ControllerType.cs","ControllerType.cs");NDSummary.OnSummaryLoaded("File:Input/GameControllers/ControllerType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1087,0,1,"Types","Chroma.Input.GameControllers.Types"],[1088,0,0,"ControllerType","Chroma.Input.GameControllers.ControllerType"]]);

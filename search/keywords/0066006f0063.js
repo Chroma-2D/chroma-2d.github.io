@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("foc",["Event"],[["Focused",,[["Chroma.Windowing.Window",,,,0,"File:Windowing/Window.cs:Chroma.Windowing.Window.Focused","CSharpClass:Chroma.Windowing.Window:Focused"]]]]);

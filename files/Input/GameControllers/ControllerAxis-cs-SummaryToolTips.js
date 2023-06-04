@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Input/GameControllers/ControllerAxis.cs",{1151:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1151\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> ControllerAxis</div></div></div>"});

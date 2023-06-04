@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cli",["Property","Class"],[["ClickCount",,[["Chroma.Input.MouseButtonEventArgs",,,,0,"File:Input/MouseButtonEventArgs.cs:Chroma.Input.MouseButtonEventArgs.ClickCount","CSharpClass:Chroma.Input.MouseButtonEventArgs:ClickCount"]]],["Clipboard",,[["Chroma",,,,1,"File:Clipboard.cs:Chroma.Clipboard","CSharpClass:Chroma.Clipboard"]]]]);

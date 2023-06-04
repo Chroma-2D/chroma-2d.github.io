@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hot",["Variable","Property"],[["HotPink",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.HotPink","CSharpClass:Chroma.Graphics.Color:HotPink"]]],["HotSpot",,[["Chroma.Input.Cursor",,,,1,"File:Input/Cursor.cs:Chroma.Input.Cursor.HotSpot","CSharpClass:Chroma.Input.Cursor:HotSpot"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/TextRendering/TrueType/HintingMode.cs",{432:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype432\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> HintingMode</div></div></div>"});

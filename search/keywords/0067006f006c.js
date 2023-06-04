@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gol",["Variable"],[["Gold",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Gold","CSharpClass:Chroma.Graphics.Color:Gold"]]],["Goldenrod",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Goldenrod","CSharpClass:Chroma.Graphics.Color:Goldenrod"]]]]);

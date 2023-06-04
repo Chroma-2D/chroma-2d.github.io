@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iac",["Interface"],[["IAccelerometerEnabled",,[["Chroma.Input.GameControllers.Drivers.Capabilities",,,,0,"File:Input/GameControllers/Drivers/Capabilities/IAccelerometerEnabled.cs:Chroma.Input.GameControllers.Drivers.Capabilities.IAccelerometerEnabled","CSharpClass:Chroma.Input.GameControllers.Drivers.Capabilities.IAccelerometerEnabled"]]]]);

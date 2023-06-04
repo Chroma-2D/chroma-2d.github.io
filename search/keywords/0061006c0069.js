@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ali",["Variable"],[["AliceBlue",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.AliceBlue","CSharpClass:Chroma.Graphics.Color:AliceBlue"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("son",["Class"],[["SonyControllerDriver",,[["Chroma.Input.GameControllers.Drivers.Sony",,,,0,"File:Input/GameControllers/Drivers/Sony/SonyControllerDriver.cs:Chroma.Input.GameControllers.Drivers.Sony.SonyControllerDriver","CSharpClass:Chroma.Input.GameControllers.Drivers.Sony.SonyControllerDriver"]]]]);

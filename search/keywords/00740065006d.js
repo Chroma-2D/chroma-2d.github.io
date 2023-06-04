@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tem",["Property"],[["Template",,[["Chroma.Diagnostics.Logging.Log",,,,0,"File:Diagnostics/Logging/Log.cs:Chroma.Diagnostics.Logging.Log.Template","CSharpClass:Chroma.Diagnostics.Logging.Log:Template"]]]]);

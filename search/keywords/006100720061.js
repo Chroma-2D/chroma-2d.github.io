@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ara",["Variable"],[["Arabic",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Arabic","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Arabic"]]]]);

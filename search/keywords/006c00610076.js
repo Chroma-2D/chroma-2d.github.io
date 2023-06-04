@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lav",["Variable"],[["Lavender",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Lavender","CSharpClass:Chroma.Graphics.Color:Lavender"]]],["LavenderBlush",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.LavenderBlush","CSharpClass:Chroma.Graphics.Color:LavenderBlush"]]]]);

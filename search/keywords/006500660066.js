@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("eff",["Class"],[["Effect",,[["Chroma.Graphics.Accelerated",,,,0,"File:Graphics/Accelerated/Effect.cs:Chroma.Graphics.Accelerated.Effect","CSharpClass:Chroma.Graphics.Accelerated.Effect"]]]]);

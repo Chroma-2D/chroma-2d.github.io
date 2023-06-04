@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fru",["Function"],[["Frustum",,[["Chroma.Graphics.RenderTransform",,,,0,"File:Graphics/RenderTransform.cs:Chroma.Graphics.RenderTransform.Frustum","CSharpClass:Chroma.Graphics.RenderTransform:Frustum"]]]]);

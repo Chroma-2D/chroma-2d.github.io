@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("far",["Property"],[["FarZ",,[["Chroma.Graphics.Camera",,,,0,"File:Graphics/Camera.cs:Chroma.Graphics.Camera.FarZ","CSharpClass:Chroma.Graphics.Camera:FarZ"]]]]);

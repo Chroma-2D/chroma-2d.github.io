@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ser",["Property"],[["SerialNumber",,[["Chroma.Input.GameControllers.ControllerInfo",,,,0,"File:Input/GameControllers/ControllerInfo.cs:Chroma.Input.GameControllers.ControllerInfo.SerialNumber","CSharpClass:Chroma.Input.GameControllers.ControllerInfo:SerialNumber"]]]]);

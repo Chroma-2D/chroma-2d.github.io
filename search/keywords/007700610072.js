@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("war",["Function"],[["Warning",,[["Chroma.Diagnostics.Logging.Log",,,,0,"File:Diagnostics/Logging/Log.cs:Chroma.Diagnostics.Logging.Log.Warning","CSharpClass:Chroma.Diagnostics.Logging.Log:Warning"]]]]);

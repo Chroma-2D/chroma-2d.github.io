@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("deb",["Function"],[["Debug",,[["Chroma.Diagnostics.Logging.Log",,,,0,"File:Diagnostics/Logging/Log.cs:Chroma.Diagnostics.Logging.Log.Debug","CSharpClass:Chroma.Diagnostics.Logging.Log:Debug"]]]]);

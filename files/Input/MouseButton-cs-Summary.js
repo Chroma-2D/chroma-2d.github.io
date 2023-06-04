@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Input/MouseButton.cs","MouseButton.cs");NDSummary.OnSummaryLoaded("File:Input/MouseButton.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1193,0,1,"Types","Chroma.Input.Types"],[1194,0,0,"MouseButton","Chroma.Input.MouseButton"]]);

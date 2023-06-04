@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mul",["Property"],[["MultiSamplingEnabled",,[["Chroma.Graphics.RenderSettings",,,,0,"File:Graphics/RenderSettings.cs:Chroma.Graphics.RenderSettings.MultiSamplingEnabled","CSharpClass:Chroma.Graphics.RenderSettings:MultiSamplingEnabled"]]]]);

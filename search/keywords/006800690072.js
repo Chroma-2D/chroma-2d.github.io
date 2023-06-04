@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hir",["Variable"],[["Hiragana",,[["Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges",,,,0,"File:Graphics/TextRendering/UnicodeCharacterRanges.cs:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges.Hiragana","CSharpClass:Chroma.Graphics.TextRendering.TrueType.UnicodeCharacterRanges:Hiragana"]]]]);

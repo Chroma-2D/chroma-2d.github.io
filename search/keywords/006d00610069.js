@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mai",["Property"],[["MainThreadId",,[["Chroma.Threading.Dispatcher",,,,0,"File:Threading/Dispatcher.cs:Chroma.Threading.Dispatcher.MainThreadId","CSharpClass:Chroma.Threading.Dispatcher:MainThreadId"]]]]);

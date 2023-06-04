@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:Chroma.Graphics.TextRendering.IFontProvider","IFontProvider");NDSummary.OnSummaryLoaded("CSharpClass:Chroma.Graphics.TextRendering.IFontProvider",[["C#","CSharp"]],[["Interfaces","Interface"]],[[460,0,0,"<span class=\"Qualifier\">Chroma.&#8203;Graphics.&#8203;TextRendering.</span>&#8203;IFontProvider"]]);

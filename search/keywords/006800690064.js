@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hid",["Event","Function"],[["Hidden",,[["Chroma.Windowing.Window",,,,0,"File:Windowing/Window.cs:Chroma.Windowing.Window.Hidden","CSharpClass:Chroma.Windowing.Window:Hidden"]]],["Hide",,[["Chroma.Windowing.Window",,,,1,"File:Windowing/Window.cs:Chroma.Windowing.Window.Hide","CSharpClass:Chroma.Windowing.Window:Hide"]]]]);

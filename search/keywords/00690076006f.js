@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ivo",["Variable"],[["Ivory",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Ivory","CSharpClass:Chroma.Graphics.Color:Ivory"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("que",["Function"],[["QuerySupportedDisplayModes",,[["Chroma.Graphics.Display",,,,0,"File:Graphics/Display.cs:Chroma.Graphics.Display.QuerySupportedDisplayModes","CSharpClass:Chroma.Graphics.Display:QuerySupportedDisplayModes"]]]]);

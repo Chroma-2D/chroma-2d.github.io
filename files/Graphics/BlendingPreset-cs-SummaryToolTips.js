@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/BlendingPreset.cs",{984:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype984\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> BlendingPreset</div></div></div>"});

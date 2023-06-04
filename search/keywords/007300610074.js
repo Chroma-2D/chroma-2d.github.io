@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sat",["Property"],[["Saturation",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Saturation","CSharpClass:Chroma.Graphics.Color:Saturation"]]]]);

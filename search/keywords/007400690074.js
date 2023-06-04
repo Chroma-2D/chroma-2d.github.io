@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tit",["Property","Function"],[["Title",,[["Chroma.Windowing.Window",,,,0,"File:Windowing/Window.cs:Chroma.Windowing.Window.Title","CSharpClass:Chroma.Windowing.Window:Title"]]],["Titled",,[["Chroma.Windowing.MessageBox",,,,1,"File:Windowing/MessageBox.cs:Chroma.Windowing.MessageBox.Titled","CSharpClass:Chroma.Windowing.MessageBox:Titled"]]]]);

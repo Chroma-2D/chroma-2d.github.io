@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Windowing/MessageBoxSeverity.cs",{1312:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1312\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> MessageBoxSeverity : <span class=\"SHKeyword\">uint</span></div></div></div>"});

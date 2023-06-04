@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("err",["Function"],[["Error",,[["Chroma.Diagnostics.Logging.Log",,,,0,"File:Diagnostics/Logging/Log.cs:Chroma.Diagnostics.Logging.Log.Error","CSharpClass:Chroma.Diagnostics.Logging.Log:Error"]]]]);

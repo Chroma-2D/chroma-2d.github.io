@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Hardware/BatteryStatus.cs","BatteryStatus.cs");NDSummary.OnSummaryLoaded("File:Hardware/BatteryStatus.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[996,0,1,"Types","Chroma.Hardware.Types"],[997,0,0,"BatteryStatus","Chroma.Hardware.BatteryStatus"]]);

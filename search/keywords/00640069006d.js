@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dim",["Variable"],[["DimGray",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.DimGray","CSharpClass:Chroma.Graphics.Color:DimGray"]]]]);

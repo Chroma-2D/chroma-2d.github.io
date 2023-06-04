@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("old",["Variable"],[["OldLace",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.OldLace","CSharpClass:Chroma.Graphics.Color:OldLace"]]]]);

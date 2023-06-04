@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("met",["Property"],[["Metrics",,[["Chroma.Graphics.TextRendering.GlyphTransformData",,,,0,"File:Graphics/TextRendering/GlyphTransformData.cs:Chroma.Graphics.TextRendering.GlyphTransformData.Metrics","CSharpClass:Chroma.Graphics.TextRendering.GlyphTransformData:Metrics"]]]]);

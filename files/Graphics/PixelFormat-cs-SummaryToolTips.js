@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Graphics/PixelFormat.cs",{703:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype703\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> PixelFormat</div></div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cri",["Variable"],[["Crimson",,[["Chroma.Graphics.Color",,,,0,"File:Graphics/Color.cs:Chroma.Graphics.Color.Crimson","CSharpClass:Chroma.Graphics.Color:Crimson"]]]]);

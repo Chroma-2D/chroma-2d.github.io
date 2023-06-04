@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mas",["Property"],[["MasterVolume",,[["Chroma.Audio.AudioOutput",,,,0,"File:Audio/AudioOutput.cs:Chroma.Audio.AudioOutput.MasterVolume","CSharpClass:Chroma.Audio.AudioOutput:MasterVolume"]]]]);
